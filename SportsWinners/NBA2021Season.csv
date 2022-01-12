@@ -1,0 +1,1037 @@
+Date,Score Type,Visitor/Neutral,VisitorPTS,Home/Neutral,HomePTS
+2020-12-22 00:00:00,Box Score,Golden State Warriors,99,Brooklyn Nets,125
+2020-12-22 00:00:00,Box Score,Los Angeles Clippers,116,Los Angeles Lakers,109
+2020-12-23 00:00:00,Box Score,Charlotte Hornets,114,Cleveland Cavaliers,121
+2020-12-23 00:00:00,Box Score,New York Knicks,107,Indiana Pacers,121
+2020-12-23 00:00:00,Box Score,Miami Heat,107,Orlando Magic,113
+2020-12-23 00:00:00,Box Score,Washington Wizards,107,Philadelphia 76ers,113
+2020-12-23 00:00:00,Box Score,New Orleans Pelicans,113,Toronto Raptors,99
+2020-12-23 00:00:00,Box Score,Milwaukee Bucks,121,Boston Celtics,122
+2020-12-23 00:00:00,Box Score,Atlanta Hawks,124,Chicago Bulls,104
+2020-12-23 00:00:00,Box Score,San Antonio Spurs,131,Memphis Grizzlies,119
+2020-12-23 00:00:00,Box Score,Detroit Pistons,101,Minnesota Timberwolves,111
+2020-12-23 00:00:00,Box Score,Sacramento Kings,124,Denver Nuggets,122
+2020-12-23 00:00:00,Box Score,Utah Jazz,120,Portland Trail Blazers,100
+2020-12-23 00:00:00,Box Score,Dallas Mavericks,102,Phoenix Suns,106
+2020-12-25 00:00:00,Box Score,New Orleans Pelicans,98,Miami Heat,111
+2020-12-25 00:00:00,Box Score,Golden State Warriors,99,Milwaukee Bucks,138
+2020-12-25 00:00:00,Box Score,Brooklyn Nets,123,Boston Celtics,95
+2020-12-25 00:00:00,Box Score,Dallas Mavericks,115,Los Angeles Lakers,138
+2020-12-25 00:00:00,Box Score,Los Angeles Clippers,121,Denver Nuggets,108
+2020-12-26 00:00:00,Box Score,Atlanta Hawks,122,Memphis Grizzlies,112
+2020-12-26 00:00:00,Box Score,Oklahoma City Thunder,109,Charlotte Hornets,107
+2020-12-26 00:00:00,Box Score,Cleveland Cavaliers,128,Detroit Pistons,119
+2020-12-26 00:00:00,Box Score,Orlando Magic,130,Washington Wizards,120
+2020-12-26 00:00:00,Box Score,Philadelphia 76ers,109,New York Knicks,89
+2020-12-26 00:00:00,Box Score,Indiana Pacers,125,Chicago Bulls,106
+2020-12-26 00:00:00,Box Score,Toronto Raptors,114,San Antonio Spurs,119
+2020-12-26 00:00:00,Box Score,Minnesota Timberwolves,116,Utah Jazz,111
+2020-12-26 00:00:00,Box Score,Houston Rockets,126,Portland Trail Blazers,128
+2020-12-26 00:00:00,Box Score,Phoenix Suns,103,Sacramento Kings,106
+2020-12-27 00:00:00,Box Score,Dallas Mavericks,124,Los Angeles Clippers,73
+2020-12-27 00:00:00,Box Score,San Antonio Spurs,95,New Orleans Pelicans,98
+2020-12-27 00:00:00,Box Score,Orlando Magic,120,Washington Wizards,113
+2020-12-27 00:00:00,Box Score,Brooklyn Nets,104,Charlotte Hornets,106
+2020-12-27 00:00:00,Box Score,Philadelphia 76ers,94,Cleveland Cavaliers,118
+2020-12-27 00:00:00,Box Score,Milwaukee Bucks,110,New York Knicks,130
+2020-12-27 00:00:00,Box Score,Boston Celtics,107,Indiana Pacers,108
+2020-12-27 00:00:00,Box Score,Golden State Warriors,129,Chicago Bulls,128
+2020-12-27 00:00:00,Box Score,Phoenix Suns,116,Sacramento Kings,100
+2020-12-27 00:00:00,Box Score,Minnesota Timberwolves,91,Los Angeles Lakers,127
+2020-12-28 00:00:00,Box Score,Memphis Grizzlies,116,Brooklyn Nets,111
+2020-12-28 00:00:00,Box Score,Detroit Pistons,120,Atlanta Hawks,128
+2020-12-28 00:00:00,Box Score,Utah Jazz,110,Oklahoma City Thunder,109
+2020-12-28 00:00:00,Box Score,Houston Rockets,111,Denver Nuggets,124
+2020-12-28 00:00:00,Box Score,Portland Trail Blazers,115,Los Angeles Lakers,107
+2020-12-29 00:00:00,Box Score,New York Knicks,95,Cleveland Cavaliers,86
+2020-12-29 00:00:00,Box Score,Golden State Warriors,116,Detroit Pistons,106
+2020-12-29 00:00:00,Box Score,Boston Celtics,116,Indiana Pacers,111
+2020-12-29 00:00:00,Box Score,Chicago Bulls,115,Washington Wizards,107
+2020-12-29 00:00:00,Box Score,Toronto Raptors,93,Philadelphia 76ers,100
+2020-12-29 00:00:00,Box Score,Milwaukee Bucks,144,Miami Heat,97
+2020-12-29 00:00:00,Box Score,Orlando Magic,118,Oklahoma City Thunder,107
+2020-12-29 00:00:00,Box Score,New Orleans Pelicans,86,Phoenix Suns,111
+2020-12-29 00:00:00,Box Score,Denver Nuggets,115,Sacramento Kings,125
+2020-12-29 00:00:00,Box Score,Minnesota Timberwolves,101,Los Angeles Clippers,124
+2020-12-30 00:00:00,Box Score,Milwaukee Bucks,108,Miami Heat,119
+2020-12-30 00:00:00,Box Score,Atlanta Hawks,141,Brooklyn Nets,145
+2020-12-30 00:00:00,Box Score,Memphis Grizzlies,107,Boston Celtics,126
+2020-12-30 00:00:00,Box Score,Charlotte Hornets,118,Dallas Mavericks,99
+2020-12-30 00:00:00,Box Score,Los Angeles Lakers,121,San Antonio Spurs,107
+2020-12-30 00:00:00,Box Score,Portland Trail Blazers,105,Los Angeles Clippers,128
+2020-12-31 00:00:00,Box Score,Cleveland Cavaliers,99,Indiana Pacers,119
+2020-12-31 00:00:00,Box Score,Chicago Bulls,133,Washington Wizards,130
+2020-12-31 00:00:00,Box Score,Philadelphia 76ers,116,Orlando Magic,92
+2020-12-31 00:00:00,Box Score,Sacramento Kings,119,Houston Rockets,122
+2020-12-31 00:00:00,Box Score,New York Knicks,83,Toronto Raptors,100
+2020-12-31 00:00:00,Box Score,New Orleans Pelicans,113,Oklahoma City Thunder,80
+2020-12-31 00:00:00,Box Score,Phoenix Suns,106,Utah Jazz,95
+2021-01-01 00:00:00,Box Score,Memphis Grizzlies,108,Charlotte Hornets,93
+2021-01-01 00:00:00,Box Score,Miami Heat,83,Dallas Mavericks,93
+2021-01-01 00:00:00,Box Score,Boston Celtics,93,Detroit Pistons,96
+2021-01-01 00:00:00,Box Score,Atlanta Hawks,114,Brooklyn Nets,96
+2021-01-01 00:00:00,Box Score,Chicago Bulls,96,Milwaukee Bucks,126
+2021-01-01 00:00:00,Box Score,Washington Wizards,130,Minnesota Timberwolves,109
+2021-01-01 00:00:00,Box Score,Los Angeles Lakers,109,San Antonio Spurs,103
+2021-01-01 00:00:00,Box Score,Phoenix Suns,106,Denver Nuggets,103
+2021-01-01 00:00:00,Box Score,Los Angeles Clippers,100,Utah Jazz,106
+2021-01-01 00:00:00,Box Score,Portland Trail Blazers,123,Golden State Warriors,98
+2021-01-02 00:00:00,Box Score,Sacramento Kings,94,Houston Rockets,102
+2021-01-02 00:00:00,Box Score,New York Knicks,106,Indiana Pacers,102
+2021-01-02 00:00:00,Box Score,Oklahoma City Thunder,108,Orlando Magic,99
+2021-01-02 00:00:00,Box Score,Charlotte Hornets,112,Philadelphia 76ers,127
+2021-01-02 00:00:00,Box Score,Cleveland Cavaliers,96,Atlanta Hawks,91
+2021-01-02 00:00:00,Box Score,Toronto Raptors,116,New Orleans Pelicans,120
+2021-01-03 00:00:00,Box Score,Boston Celtics,122,Detroit Pistons,120
+2021-01-03 00:00:00,Box Score,Washington Wizards,123,Brooklyn Nets,122
+2021-01-03 00:00:00,Box Score,Los Angeles Lakers,108,Memphis Grizzlies,94
+2021-01-03 00:00:00,Box Score,Denver Nuggets,124,Minnesota Timberwolves,109
+2021-01-03 00:00:00,Box Score,Utah Jazz,130,San Antonio Spurs,109
+2021-01-03 00:00:00,Box Score,Dallas Mavericks,108,Chicago Bulls,118
+2021-01-03 00:00:00,Box Score,Los Angeles Clippers,112,Phoenix Suns,107
+2021-01-03 00:00:00,Box Score,Portland Trail Blazers,122,Golden State Warriors,137
+2021-01-04 00:00:00,Box Score,Cleveland Cavaliers,83,Orlando Magic,103
+2021-01-04 00:00:00,Box Score,Charlotte Hornets,101,Philadelphia 76ers,118
+2021-01-04 00:00:00,Box Score,New York Knicks,113,Atlanta Hawks,108
+2021-01-04 00:00:00,Box Score,Oklahoma City Thunder,90,Miami Heat,118
+2021-01-04 00:00:00,Box Score,Boston Celtics,126,Toronto Raptors,114
+2021-01-04 00:00:00,Box Score,Dallas Mavericks,113,Houston Rockets,100
+2021-01-04 00:00:00,Box Score,Detroit Pistons,115,Milwaukee Bucks,125
+2021-01-04 00:00:00,Box Score,Indiana Pacers,118,New Orleans Pelicans,116
+2021-01-04 00:00:00,Box Score,Sacramento Kings,106,Golden State Warriors,137
+2021-01-05 00:00:00,Box Score,Utah Jazz,96,Brooklyn Nets,130
+2021-01-05 00:00:00,Box Score,Los Angeles Lakers,94,Memphis Grizzlies,92
+2021-01-05 00:00:00,Box Score,Minnesota Timberwolves,116,Denver Nuggets,123
+2021-01-05 00:00:00,Box Score,San Antonio Spurs,116,Los Angeles Clippers,113
+2021-01-05 00:00:00,Box Score,Chicago Bulls,111,Portland Trail Blazers,108
+2021-01-06 00:00:00,Box Score,Houston Rockets,107,Indiana Pacers,114
+2021-01-06 00:00:00,Box Score,Cleveland Cavaliers,94,Orlando Magic,105
+2021-01-06 00:00:00,Box Score,Washington Wizards,136,Philadelphia 76ers,141
+2021-01-06 00:00:00,Box Score,Charlotte Hornets,102,Atlanta Hawks,94
+2021-01-06 00:00:00,Box Score,Boston Celtics,107,Miami Heat,105
+2021-01-06 00:00:00,Box Score,Utah Jazz,100,New York Knicks,112
+2021-01-06 00:00:00,Box Score,Detroit Pistons,115,Milwaukee Bucks,130
+2021-01-06 00:00:00,Box Score,Oklahoma City Thunder,111,New Orleans Pelicans,110
+2021-01-06 00:00:00,Box Score,Toronto Raptors,115,Phoenix Suns,123
+2021-01-06 00:00:00,Box Score,Los Angeles Clippers,108,Golden State Warriors,101
+2021-01-06 00:00:00,Box Score,Chicago Bulls,124,Sacramento Kings,128
+2021-01-07 00:00:00,Box Score,Philadelphia 76ers,109,Brooklyn Nets,122
+2021-01-07 00:00:00,Box Score,Cleveland Cavaliers,94,Memphis Grizzlies,90
+2021-01-07 00:00:00,Box Score,Dallas Mavericks,124,Denver Nuggets,117
+2021-01-07 00:00:00,Box Score,San Antonio Spurs,118,Los Angeles Lakers,109
+2021-01-07 00:00:00,Box Score,Minnesota Timberwolves,117,Portland Trail Blazers,135
+2021-01-08 00:00:00,Box Score,Phoenix Suns,105,Detroit Pistons,110
+2021-01-08 00:00:00,Box Score,Washington Wizards,107,Boston Celtics,116
+2021-01-08 00:00:00,Box Score,Charlotte Hornets,118,New Orleans Pelicans,110
+2021-01-08 00:00:00,Box Score,Oklahoma City Thunder,101,New York Knicks,89
+2021-01-08 00:00:00,Box Score,Orlando Magic,90,Houston Rockets,132
+2021-01-08 00:00:00,Box Score,Brooklyn Nets,110,Memphis Grizzlies,115
+2021-01-08 00:00:00,Box Score,Utah Jazz,131,Milwaukee Bucks,118
+2021-01-08 00:00:00,Box Score,Los Angeles Clippers,105,Golden State Warriors,115
+2021-01-08 00:00:00,Box Score,Chicago Bulls,115,Los Angeles Lakers,117
+2021-01-08 00:00:00,Box Score,Toronto Raptors,144,Sacramento Kings,123
+2021-01-09 00:00:00,Box Score,Denver Nuggets,115,Philadelphia 76ers,103
+2021-01-09 00:00:00,Box Score,Atlanta Hawks,105,Charlotte Hornets,113
+2021-01-09 00:00:00,Box Score,Phoenix Suns,125,Indiana Pacers,117
+2021-01-09 00:00:00,Box Score,Miami Heat,128,Washington Wizards,124
+2021-01-09 00:00:00,Box Score,Cleveland Cavaliers,90,Milwaukee Bucks,100
+2021-01-09 00:00:00,Box Score,San Antonio Spurs,125,Minnesota Timberwolves,122
+2021-01-09 00:00:00,Box Score,Orlando Magic,98,Dallas Mavericks,112
+2021-01-09 00:00:00,Box Score,Portland Trail Blazers,125,Sacramento Kings,99
+2021-01-10 00:00:00,Box Score,Utah Jazz,96,Detroit Pistons,86
+2021-01-10 00:00:00,Box Score,Chicago Bulls,127,Los Angeles Clippers,130
+2021-01-10 00:00:00,Box Score,Oklahoma City Thunder,129,Brooklyn Nets,116
+2021-01-10 00:00:00,Box Score,Denver Nuggets,114,New York Knicks,89
+2021-01-10 00:00:00,Box Score,Los Angeles Lakers,120,Houston Rockets,102
+2021-01-10 00:00:00,Box Score,San Antonio Spurs,88,Minnesota Timberwolves,96
+2021-01-10 00:00:00,Box Score,Toronto Raptors,105,Golden State Warriors,106
+2021-01-11 00:00:00,Box Score,New York Knicks,88,Charlotte Hornets,109
+2021-01-11 00:00:00,Box Score,Memphis Grizzlies,101,Cleveland Cavaliers,91
+2021-01-11 00:00:00,Box Score,Milwaukee Bucks,121,Orlando Magic,99
+2021-01-11 00:00:00,Box Score,Phoenix Suns,107,Washington Wizards,128
+2021-01-11 00:00:00,Box Score,Philadelphia 76ers,94,Atlanta Hawks,112
+2021-01-11 00:00:00,Box Score,Toronto Raptors,111,Portland Trail Blazers,112
+2021-01-11 00:00:00,Box Score,Indiana Pacers,122,Sacramento Kings,127
+2021-01-12 00:00:00,Box Score,Miami Heat,134,Philadelphia 76ers,137
+2021-01-12 00:00:00,Box Score,Denver Nuggets,116,Brooklyn Nets,122
+2021-01-12 00:00:00,Box Score,Utah Jazz,117,Cleveland Cavaliers,87
+2021-01-12 00:00:00,Box Score,Los Angeles Lakers,117,Houston Rockets,100
+2021-01-12 00:00:00,Box Score,San Antonio Spurs,112,Oklahoma City Thunder,102
+2021-01-12 00:00:00,Box Score,Indiana Pacers,104,Golden State Warriors,95
+2021-01-13 00:00:00,Box Score,Dallas Mavericks,104,Charlotte Hornets,93
+2021-01-13 00:00:00,Box Score,Milwaukee Bucks,110,Detroit Pistons,101
+2021-01-13 00:00:00,Box Score,Brooklyn Nets,116,New York Knicks,109
+2021-01-13 00:00:00,Box Score,Memphis Grizzlies,118,Minnesota Timberwolves,107
+2021-01-13 00:00:00,Box Score,Los Angeles Lakers,128,Oklahoma City Thunder,99
+2021-01-13 00:00:00,Box Score,New Orleans Pelicans,106,Los Angeles Clippers,111
+2021-01-13 00:00:00,Box Score,Portland Trail Blazers,132,Sacramento Kings,126
+2021-01-14 00:00:00,Box Score,Miami Heat,108,Philadelphia 76ers,125
+2021-01-14 00:00:00,Box Score,Houston Rockets,109,San Antonio Spurs,105
+2021-01-14 00:00:00,Box Score,Charlotte Hornets,108,Toronto Raptors,111
+2021-01-14 00:00:00,Box Score,Golden State Warriors,104,Denver Nuggets,114
+2021-01-14 00:00:00,Box Score,Indiana Pacers,111,Portland Trail Blazers,87
+2021-01-15 00:00:00,Box Score,Orlando Magic,97,Boston Celtics,124
+2021-01-15 00:00:00,Box Score,New York Knicks,103,Cleveland Cavaliers,106
+2021-01-15 00:00:00,Box Score,Dallas Mavericks,109,Milwaukee Bucks,112
+2021-01-15 00:00:00,Box Score,Chicago Bulls,125,Oklahoma City Thunder,127
+2021-01-15 00:00:00,Box Score,Atlanta Hawks,92,Utah Jazz,116
+2021-01-15 00:00:00,Box Score,New Orleans Pelicans,95,Los Angeles Lakers,112
+2021-01-15 00:00:00,Box Score,Los Angeles Clippers,138,Sacramento Kings,100
+2021-01-16 00:00:00,Box Score,Houston Rockets,91,San Antonio Spurs,103
+2021-01-16 00:00:00,Box Score,Orlando Magic,115,Brooklyn Nets,122
+2021-01-16 00:00:00,Box Score,Charlotte Hornets,113,Toronto Raptors,116
+2021-01-16 00:00:00,Box Score,Philadelphia 76ers,104,Memphis Grizzlies,106
+2021-01-16 00:00:00,Box Score,Detroit Pistons,120,Miami Heat,100
+2021-01-16 00:00:00,Box Score,Atlanta Hawks,106,Portland Trail Blazers,112
+2021-01-17 00:00:00,Box Score,New York Knicks,105,Boston Celtics,75
+2021-01-17 00:00:00,Box Score,Chicago Bulls,117,Dallas Mavericks,101
+2021-01-17 00:00:00,Box Score,Utah Jazz,109,Denver Nuggets,105
+2021-01-17 00:00:00,Box Score,New Orleans Pelicans,128,Sacramento Kings,123
+2021-01-17 00:00:00,Box Score,Indiana Pacers,96,Los Angeles Clippers,129
+2021-01-18 00:00:00,Box Score,Orlando Magic,84,New York Knicks,91
+2021-01-18 00:00:00,Box Score,Minnesota Timberwolves,97,Atlanta Hawks,108
+2021-01-18 00:00:00,Box Score,San Antonio Spurs,125,Portland Trail Blazers,104
+2021-01-18 00:00:00,Box Score,Phoenix Suns,104,Memphis Grizzlies,108
+2021-01-18 00:00:00,Box Score,Milwaukee Bucks,123,Brooklyn Nets,125
+2021-01-18 00:00:00,Box Score,Dallas Mavericks,93,Toronto Raptors,116
+2021-01-18 00:00:00,Box Score,Houston Rockets,120,Chicago Bulls,125
+2021-01-18 00:00:00,Box Score,Detroit Pistons,107,Miami Heat,113
+2021-01-18 00:00:00,Box Score,Golden State Warriors,115,Los Angeles Lakers,113
+2021-01-19 00:00:00,Box Score,Oklahoma City Thunder,101,Denver Nuggets,119
+2021-01-19 00:00:00,Box Score,New Orleans Pelicans,102,Utah Jazz,118
+2021-01-20 00:00:00,Box Score,Brooklyn Nets,135,Cleveland Cavaliers,147
+2021-01-20 00:00:00,Box Score,Dallas Mavericks,124,Indiana Pacers,112
+2021-01-20 00:00:00,Box Score,Boston Celtics,109,Philadelphia 76ers,117
+2021-01-20 00:00:00,Box Score,Detroit Pistons,115,Atlanta Hawks,123
+2021-01-20 00:00:00,Box Score,Miami Heat,111,Toronto Raptors,102
+2021-01-20 00:00:00,Box Score,Orlando Magic,97,Minnesota Timberwolves,96
+2021-01-20 00:00:00,Box Score,Phoenix Suns,109,Houston Rockets,103
+2021-01-20 00:00:00,Box Score,San Antonio Spurs,99,Golden State Warriors,121
+2021-01-20 00:00:00,Box Score,Sacramento Kings,96,Los Angeles Clippers,115
+2021-01-21 00:00:00,Box Score,Los Angeles Lakers,113,Milwaukee Bucks,106
+2021-01-21 00:00:00,Box Score,New York Knicks,119,Golden State Warriors,104
+2021-01-21 00:00:00,Box Score,New Orleans Pelicans,118,Utah Jazz,129
+2021-01-22 00:00:00,Box Score,Chicago Bulls,123,Charlotte Hornets,110
+2021-01-22 00:00:00,Box Score,Houston Rockets,103,Detroit Pistons,102
+2021-01-22 00:00:00,Box Score,Orlando Magic,118,Indiana Pacers,120
+2021-01-22 00:00:00,Box Score,Brooklyn Nets,113,Cleveland Cavaliers,125
+2021-01-22 00:00:00,Box Score,Boston Celtics,110,Philadelphia 76ers,122
+2021-01-22 00:00:00,Box Score,Miami Heat,81,Toronto Raptors,101
+2021-01-22 00:00:00,Box Score,Atlanta Hawks,116,Minnesota Timberwolves,98
+2021-01-22 00:00:00,Box Score,Dallas Mavericks,122,San Antonio Spurs,117
+2021-01-22 00:00:00,Box Score,Oklahoma City Thunder,106,Los Angeles Clippers,120
+2021-01-22 00:00:00,Box Score,Denver Nuggets,130,Phoenix Suns,126
+2021-01-22 00:00:00,Box Score,New York Knicks,94,Sacramento Kings,103
+2021-01-23 00:00:00,Box Score,Miami Heat,124,Brooklyn Nets,128
+2021-01-23 00:00:00,Box Score,Philadelphia 76ers,114,Detroit Pistons,110
+2021-01-23 00:00:00,Box Score,New Orleans Pelicans,110,Minnesota Timberwolves,120
+2021-01-23 00:00:00,Box Score,Los Angeles Lakers,101,Chicago Bulls,90
+2021-01-23 00:00:00,Box Score,Houston Rockets,133,Dallas Mavericks,108
+2021-01-23 00:00:00,Box Score,Denver Nuggets,120,Phoenix Suns,112
+2021-01-23 00:00:00,Box Score,Golden State Warriors,108,Utah Jazz,127
+2021-01-24 00:00:00,Box Score,Toronto Raptors,107,Indiana Pacers,102
+2021-01-24 00:00:00,Box Score,Oklahoma City Thunder,100,Los Angeles Clippers,108
+2021-01-24 00:00:00,Box Score,Cleveland Cavaliers,103,Boston Celtics,141
+2021-01-24 00:00:00,Box Score,Charlotte Hornets,107,Orlando Magic,104
+2021-01-24 00:00:00,Box Score,Atlanta Hawks,115,Milwaukee Bucks,129
+2021-01-24 00:00:00,Box Score,Washington Wizards,101,San Antonio Spurs,121
+2021-01-24 00:00:00,Box Score,New York Knicks,113,Portland Trail Blazers,116
+2021-01-25 00:00:00,Box Score,Philadelphia 76ers,104,Detroit Pistons,119
+2021-01-25 00:00:00,Box Score,Toronto Raptors,114,Indiana Pacers,129
+2021-01-25 00:00:00,Box Score,Charlotte Hornets,108,Orlando Magic,117
+2021-01-25 00:00:00,Box Score,Miami Heat,85,Brooklyn Nets,98
+2021-01-25 00:00:00,Box Score,Los Angeles Lakers,115,Cleveland Cavaliers,108
+2021-01-25 00:00:00,Box Score,Denver Nuggets,117,Dallas Mavericks,113
+2021-01-25 00:00:00,Box Score,Boston Celtics,119,Chicago Bulls,103
+2021-01-25 00:00:00,Box Score,Minnesota Timberwolves,108,Golden State Warriors,130
+2021-01-25 00:00:00,Box Score,Oklahoma City Thunder,125,Portland Trail Blazers,122
+2021-01-26 00:00:00,Box Score,Los Angeles Clippers,99,Atlanta Hawks,108
+2021-01-26 00:00:00,Box Score,Washington Wizards,88,Houston Rockets,107
+2021-01-26 00:00:00,Box Score,New York Knicks,94,Utah Jazz,108
+2021-01-27 00:00:00,Box Score,Indiana Pacers,116,Charlotte Hornets,106
+2021-01-27 00:00:00,Box Score,Detroit Pistons,107,Cleveland Cavaliers,122
+2021-01-27 00:00:00,Box Score,Sacramento Kings,121,Orlando Magic,107
+2021-01-27 00:00:00,Box Score,Brooklyn Nets,132,Atlanta Hawks,128
+2021-01-27 00:00:00,Box Score,Denver Nuggets,109,Miami Heat,82
+2021-01-27 00:00:00,Box Score,Los Angeles Lakers,106,Philadelphia 76ers,107
+2021-01-27 00:00:00,Box Score,Milwaukee Bucks,115,Toronto Raptors,108
+2021-01-27 00:00:00,Box Score,Boston Celtics,106,San Antonio Spurs,110
+2021-01-27 00:00:00,Box Score,Washington Wizards,106,New Orleans Pelicans,124
+2021-01-27 00:00:00,Box Score,Oklahoma City Thunder,102,Phoenix Suns,97
+2021-01-27 00:00:00,Box Score,Dallas Mavericks,104,Utah Jazz,116
+2021-01-27 00:00:00,Box Score,Minnesota Timberwolves,111,Golden State Warriors,123
+2021-01-28 00:00:00,Box Score,Portland Trail Blazers,101,Houston Rockets,104
+2021-01-28 00:00:00,Box Score,Los Angeles Lakers,92,Detroit Pistons,107
+2021-01-28 00:00:00,Box Score,Los Angeles Clippers,109,Miami Heat,105
+2021-01-28 00:00:00,Box Score,Golden State Warriors,93,Phoenix Suns,114
+2021-01-29 00:00:00,Box Score,Indiana Pacers,105,Charlotte Hornets,108
+2021-01-29 00:00:00,Box Score,Atlanta Hawks,116,Washington Wizards,100
+2021-01-29 00:00:00,Box Score,Milwaukee Bucks,126,New Orleans Pelicans,131
+2021-01-29 00:00:00,Box Score,Cleveland Cavaliers,81,New York Knicks,102
+2021-01-29 00:00:00,Box Score,Sacramento Kings,126,Toronto Raptors,124
+2021-01-29 00:00:00,Box Score,Philadelphia 76ers,118,Minnesota Timberwolves,94
+2021-01-29 00:00:00,Box Score,Brooklyn Nets,147,Oklahoma City Thunder,125
+2021-01-29 00:00:00,Box Score,Los Angeles Clippers,116,Orlando Magic,90
+2021-01-29 00:00:00,Box Score,Denver Nuggets,109,San Antonio Spurs,119
+2021-01-29 00:00:00,Box Score,Dallas Mavericks,101,Utah Jazz,120
+2021-01-30 00:00:00,Box Score,Portland Trail Blazers,123,Chicago Bulls,122
+2021-01-30 00:00:00,Box Score,Milwaukee Bucks,114,Charlotte Hornets,126
+2021-01-30 00:00:00,Box Score,Sacramento Kings,104,Miami Heat,105
+2021-01-30 00:00:00,Box Score,Houston Rockets,126,New Orleans Pelicans,112
+2021-01-30 00:00:00,Box Score,Los Angeles Lakers,96,Boston Celtics,95
+2021-01-30 00:00:00,Box Score,Memphis Grizzlies,129,San Antonio Spurs,112
+2021-01-30 00:00:00,Box Score,Phoenix Suns,111,Dallas Mavericks,105
+2021-01-30 00:00:00,Box Score,Detroit Pistons,91,Golden State Warriors,118
+2021-01-31 00:00:00,Box Score,Los Angeles Clippers,129,New York Knicks,115
+2021-01-31 00:00:00,Box Score,Utah Jazz,117,Denver Nuggets,128
+2021-01-31 00:00:00,Box Score,Philadelphia 76ers,119,Indiana Pacers,110
+2021-01-31 00:00:00,Box Score,Orlando Magic,102,Toronto Raptors,115
+2021-01-31 00:00:00,Box Score,Brooklyn Nets,146,Washington Wizards,149
+2021-01-31 00:00:00,Box Score,Cleveland Cavaliers,104,Minnesota Timberwolves,109
+2021-02-01 00:00:00,Box Score,Los Angeles Lakers,107,Atlanta Hawks,99
+2021-02-01 00:00:00,Box Score,Charlotte Hornets,129,Miami Heat,121
+2021-02-01 00:00:00,Box Score,New York Knicks,102,Chicago Bulls,110
+2021-02-01 00:00:00,Box Score,Minnesota Timberwolves,98,Cleveland Cavaliers,100
+2021-02-01 00:00:00,Box Score,Portland Trail Blazers,106,Milwaukee Bucks,134
+2021-02-01 00:00:00,Box Score,Sacramento Kings,118,New Orleans Pelicans,109
+2021-02-01 00:00:00,Box Score,Houston Rockets,136,Oklahoma City Thunder,106
+2021-02-01 00:00:00,Box Score,Phoenix Suns,109,Dallas Mavericks,108
+2021-02-01 00:00:00,Box Score,Memphis Grizzlies,133,San Antonio Spurs,102
+2021-02-02 00:00:00,Box Score,Toronto Raptors,123,Orlando Magic,108
+2021-02-02 00:00:00,Box Score,Los Angeles Clippers,120,Brooklyn Nets,124
+2021-02-02 00:00:00,Box Score,Memphis Grizzlies,116,Indiana Pacers,134
+2021-02-02 00:00:00,Box Score,Portland Trail Blazers,132,Washington Wizards,121
+2021-02-02 00:00:00,Box Score,Boston Celtics,111,Golden State Warriors,107
+2021-02-02 00:00:00,Box Score,Detroit Pistons,105,Utah Jazz,117
+2021-02-03 00:00:00,Box Score,Philadelphia 76ers,118,Charlotte Hornets,111
+2021-02-03 00:00:00,Box Score,Indiana Pacers,110,Milwaukee Bucks,130
+2021-02-03 00:00:00,Box Score,Dallas Mavericks,122,Atlanta Hawks,116
+2021-02-03 00:00:00,Box Score,New York Knicks,107,Chicago Bulls,103
+2021-02-03 00:00:00,Box Score,Los Angeles Clippers,121,Cleveland Cavaliers,99
+2021-02-03 00:00:00,Box Score,Washington Wizards,103,Miami Heat,100
+2021-02-03 00:00:00,Box Score,Houston Rockets,87,Oklahoma City Thunder,104
+2021-02-03 00:00:00,Box Score,Minnesota Timberwolves,108,San Antonio Spurs,111
+2021-02-03 00:00:00,Box Score,Phoenix Suns,101,New Orleans Pelicans,123
+2021-02-03 00:00:00,Box Score,Boston Celtics,111,Sacramento Kings,116
+2021-02-04 00:00:00,Box Score,Utah Jazz,112,Atlanta Hawks,91
+2021-02-04 00:00:00,Box Score,Golden State Warriors,147,Dallas Mavericks,116
+2021-02-04 00:00:00,Box Score,Portland Trail Blazers,121,Philadelphia 76ers,105
+2021-02-04 00:00:00,Box Score,Houston Rockets,115,Memphis Grizzlies,103
+2021-02-04 00:00:00,Box Score,Denver Nuggets,93,Los Angeles Lakers,114
+2021-02-05 00:00:00,Box Score,New Orleans Pelicans,114,Indiana Pacers,113
+2021-02-05 00:00:00,Box Score,Chicago Bulls,119,Orlando Magic,123
+2021-02-05 00:00:00,Box Score,Toronto Raptors,123,Brooklyn Nets,117
+2021-02-05 00:00:00,Box Score,Milwaukee Bucks,123,Cleveland Cavaliers,105
+2021-02-05 00:00:00,Box Score,Utah Jazz,138,Charlotte Hornets,121
+2021-02-05 00:00:00,Box Score,Washington Wizards,95,Miami Heat,122
+2021-02-05 00:00:00,Box Score,Minnesota Timberwolves,106,Oklahoma City Thunder,103
+2021-02-05 00:00:00,Box Score,Detroit Pistons,92,Phoenix Suns,109
+2021-02-05 00:00:00,Box Score,Boston Celtics,119,Los Angeles Clippers,115
+2021-02-06 00:00:00,Box Score,Portland Trail Blazers,99,New York Knicks,110
+2021-02-06 00:00:00,Box Score,Denver Nuggets,114,Sacramento Kings,119
+2021-02-06 00:00:00,Box Score,Chicago Bulls,118,Orlando Magic,92
+2021-02-06 00:00:00,Box Score,Toronto Raptors,121,Atlanta Hawks,132
+2021-02-06 00:00:00,Box Score,Milwaukee Bucks,124,Cleveland Cavaliers,99
+2021-02-06 00:00:00,Box Score,San Antonio Spurs,111,Houston Rockets,106
+2021-02-06 00:00:00,Box Score,Minnesota Timberwolves,118,Oklahoma City Thunder,120
+2021-02-06 00:00:00,Box Score,Brooklyn Nets,108,Philadelphia 76ers,124
+2021-02-06 00:00:00,Box Score,Golden State Warriors,132,Dallas Mavericks,134
+2021-02-06 00:00:00,Box Score,Memphis Grizzlies,109,New Orleans Pelicans,118
+2021-02-06 00:00:00,Box Score,Detroit Pistons,129,Los Angeles Lakers,135
+2021-02-07 00:00:00,Box Score,Washington Wizards,97,Charlotte Hornets,119
+2021-02-07 00:00:00,Box Score,Utah Jazz,103,Indiana Pacers,95
+2021-02-07 00:00:00,Box Score,Miami Heat,109,New York Knicks,103
+2021-02-07 00:00:00,Box Score,Boston Celtics,91,Phoenix Suns,100
+2021-02-07 00:00:00,Box Score,Sacramento Kings,113,Los Angeles Clippers,110
+2021-02-08 00:00:00,Box Score,Houston Rockets,94,Charlotte Hornets,119
+2021-02-08 00:00:00,Box Score,Washington Wizards,105,Chicago Bulls,101
+2021-02-08 00:00:00,Box Score,Toronto Raptors,128,Memphis Grizzlies,113
+2021-02-08 00:00:00,Box Score,Minnesota Timberwolves,122,Dallas Mavericks,127
+2021-02-08 00:00:00,Box Score,Golden State Warriors,100,San Antonio Spurs,105
+2021-02-08 00:00:00,Box Score,Cleveland Cavaliers,113,Phoenix Suns,119
+2021-02-08 00:00:00,Box Score,Milwaukee Bucks,125,Denver Nuggets,112
+2021-02-08 00:00:00,Box Score,Oklahoma City Thunder,112,Los Angeles Lakers,119
+2021-02-09 00:00:00,Box Score,Brooklyn Nets,111,Detroit Pistons,122
+2021-02-09 00:00:00,Box Score,New York Knicks,96,Miami Heat,98
+2021-02-09 00:00:00,Box Score,Houston Rockets,101,New Orleans Pelicans,130
+2021-02-09 00:00:00,Box Score,Golden State Warriors,114,San Antonio Spurs,91
+2021-02-09 00:00:00,Box Score,Orlando Magic,97,Portland Trail Blazers,106
+2021-02-09 00:00:00,Box Score,Philadelphia 76ers,119,Sacramento Kings,111
+2021-02-09 00:00:00,Box Score,Boston Celtics,108,Utah Jazz,122
+2021-02-10 00:00:00,Box Score,Toronto Raptors,137,Washington Wizards,115
+2021-02-10 00:00:00,Box Score,Atlanta Hawks,117,Dallas Mavericks,118
+2021-02-10 00:00:00,Box Score,Indiana Pacers,94,Brooklyn Nets,104
+2021-02-10 00:00:00,Box Score,Charlotte Hornets,114,Memphis Grizzlies,130
+2021-02-10 00:00:00,Box Score,Los Angeles Clippers,119,Minnesota Timberwolves,112
+2021-02-10 00:00:00,Box Score,New Orleans Pelicans,116,Chicago Bulls,129
+2021-02-10 00:00:00,Box Score,Cleveland Cavaliers,95,Denver Nuggets,133
+2021-02-10 00:00:00,Box Score,Oklahoma City Thunder,113,Los Angeles Lakers,114
+2021-02-10 00:00:00,Box Score,Milwaukee Bucks,124,Phoenix Suns,125
+2021-02-11 00:00:00,Box Score,Toronto Raptors,106,Boston Celtics,120
+2021-02-11 00:00:00,Box Score,Miami Heat,101,Houston Rockets,94
+2021-02-11 00:00:00,Box Score,Indiana Pacers,111,Detroit Pistons,95
+2021-02-11 00:00:00,Box Score,Orlando Magic,105,Golden State Warriors,111
+2021-02-11 00:00:00,Box Score,Philadelphia 76ers,114,Portland Trail Blazers,118
+2021-02-12 00:00:00,Box Score,Minnesota Timberwolves,114,Charlotte Hornets,120
+2021-02-12 00:00:00,Box Score,New York Knicks,109,Washington Wizards,91
+2021-02-12 00:00:00,Box Score,San Antonio Spurs,125,Atlanta Hawks,114
+2021-02-12 00:00:00,Box Score,New Orleans Pelicans,130,Dallas Mavericks,143
+2021-02-12 00:00:00,Box Score,Detroit Pistons,108,Boston Celtics,102
+2021-02-12 00:00:00,Box Score,Los Angeles Clippers,125,Chicago Bulls,106
+2021-02-12 00:00:00,Box Score,Oklahoma City Thunder,95,Denver Nuggets,97
+2021-02-12 00:00:00,Box Score,Milwaukee Bucks,115,Utah Jazz,129
+2021-02-12 00:00:00,Box Score,Memphis Grizzlies,105,Los Angeles Lakers,115
+2021-02-12 00:00:00,Box Score,Cleveland Cavaliers,110,Portland Trail Blazers,129
+2021-02-12 00:00:00,Box Score,Orlando Magic,123,Sacramento Kings,112
+2021-02-13 00:00:00,Box Score,Philadelphia 76ers,111,Phoenix Suns,120
+2021-02-13 00:00:00,Box Score,Indiana Pacers,125,Atlanta Hawks,113
+2021-02-13 00:00:00,Box Score,Houston Rockets,99,New York Knicks,121
+2021-02-13 00:00:00,Box Score,Brooklyn Nets,134,Golden State Warriors,117
+2021-02-13 00:00:00,Box Score,Miami Heat,94,Utah Jazz,112
+2021-02-14 00:00:00,Box Score,Boston Celtics,91,Washington Wizards,104
+2021-02-14 00:00:00,Box Score,San Antonio Spurs,122,Charlotte Hornets,110
+2021-02-14 00:00:00,Box Score,New Orleans Pelicans,112,Detroit Pistons,123
+2021-02-14 00:00:00,Box Score,Minnesota Timberwolves,116,Toronto Raptors,112
+2021-02-14 00:00:00,Box Score,Portland Trail Blazers,121,Dallas Mavericks,118
+2021-02-14 00:00:00,Box Score,Milwaukee Bucks,109,Oklahoma City Thunder,114
+2021-02-14 00:00:00,Box Score,Orlando Magic,90,Phoenix Suns,109
+2021-02-14 00:00:00,Box Score,Los Angeles Lakers,105,Denver Nuggets,122
+2021-02-14 00:00:00,Box Score,Cleveland Cavaliers,111,Los Angeles Clippers,128
+2021-02-14 00:00:00,Box Score,Memphis Grizzlies,124,Sacramento Kings,110
+2021-02-15 00:00:00,Box Score,Chicago Bulls,120,Indiana Pacers,112
+2021-02-15 00:00:00,Box Score,Houston Rockets,119,Washington Wizards,131
+2021-02-15 00:00:00,Box Score,Atlanta Hawks,112,New York Knicks,123
+2021-02-15 00:00:00,Box Score,Philadelphia 76ers,123,Utah Jazz,134
+2021-02-15 00:00:00,Box Score,Cleveland Cavaliers,98,Golden State Warriors,129
+2021-02-15 00:00:00,Box Score,Miami Heat,118,Los Angeles Clippers,125
+2021-02-15 00:00:00,Box Score,Brooklyn Nets,136,Sacramento Kings,125
+2021-02-16 00:00:00,Box Score,Denver Nuggets,99,Boston Celtics,112
+2021-02-16 00:00:00,Box Score,New Orleans Pelicans,144,Memphis Grizzlies,113
+2021-02-16 00:00:00,Box Score,Toronto Raptors,124,Milwaukee Bucks,113
+2021-02-16 00:00:00,Box Score,Los Angeles Lakers,112,Minnesota Timberwolves,104
+2021-02-16 00:00:00,Box Score,Portland Trail Blazers,115,Oklahoma City Thunder,104
+2021-02-16 00:00:00,Box Score,Brooklyn Nets,128,Phoenix Suns,124
+2021-02-17 00:00:00,Box Score,New York Knicks,89,Orlando Magic,107
+2021-02-17 00:00:00,Box Score,Atlanta Hawks,122,Boston Celtics,114
+2021-02-17 00:00:00,Box Score,Houston Rockets,113,Philadelphia 76ers,118
+2021-02-17 00:00:00,Box Score,Detroit Pistons,102,Chicago Bulls,105
+2021-02-17 00:00:00,Box Score,Indiana Pacers,134,Minnesota Timberwolves,128
+2021-02-17 00:00:00,Box Score,Denver Nuggets,128,Washington Wizards,130
+2021-02-17 00:00:00,Box Score,Oklahoma City Thunder,113,Memphis Grizzlies,122
+2021-02-17 00:00:00,Box Score,Portland Trail Blazers,126,New Orleans Pelicans,124
+2021-02-17 00:00:00,Box Score,Miami Heat,112,Golden State Warriors,120
+2021-02-17 00:00:00,Box Score,Utah Jazz,114,Los Angeles Clippers,96
+2021-02-18 00:00:00,Box Score,Toronto Raptors,110,Milwaukee Bucks,96
+2021-02-18 00:00:00,Box Score,Brooklyn Nets,109,Los Angeles Lakers,98
+2021-02-18 00:00:00,Box Score,Miami Heat,118,Sacramento Kings,110
+2021-02-19 00:00:00,Box Score,Denver Nuggets,120,Cleveland Cavaliers,103
+2021-02-19 00:00:00,Box Score,Golden State Warriors,120,Orlando Magic,124
+2021-02-19 00:00:00,Box Score,Atlanta Hawks,109,Boston Celtics,121
+2021-02-19 00:00:00,Box Score,Chicago Bulls,105,Philadelphia 76ers,112
+2021-02-19 00:00:00,Box Score,Detroit Pistons,95,Memphis Grizzlies,109
+2021-02-19 00:00:00,Box Score,Oklahoma City Thunder,85,Milwaukee Bucks,98
+2021-02-19 00:00:00,Box Score,Phoenix Suns,132,New Orleans Pelicans,114
+2021-02-19 00:00:00,Box Score,Toronto Raptors,86,Minnesota Timberwolves,81
+2021-02-19 00:00:00,Box Score,Utah Jazz,112,Los Angeles Clippers,116
+2021-02-20 00:00:00,Box Score,Golden State Warriors,100,Charlotte Hornets,102
+2021-02-20 00:00:00,Box Score,Miami Heat,96,Los Angeles Lakers,94
+2021-02-20 00:00:00,Box Score,Sacramento Kings,114,Chicago Bulls,122
+2021-02-20 00:00:00,Box Score,Phoenix Suns,128,Memphis Grizzlies,97
+2021-02-20 00:00:00,Box Score,Washington Wizards,118,Portland Trail Blazers,111
+2021-02-21 00:00:00,Box Score,Boston Celtics,115,New Orleans Pelicans,120
+2021-02-21 00:00:00,Box Score,Oklahoma City Thunder,117,Cleveland Cavaliers,101
+2021-02-21 00:00:00,Box Score,Minnesota Timberwolves,99,New York Knicks,103
+2021-02-21 00:00:00,Box Score,Detroit Pistons,96,Orlando Magic,105
+2021-02-21 00:00:00,Box Score,Philadelphia 76ers,103,Toronto Raptors,110
+2021-02-21 00:00:00,Box Score,Denver Nuggets,115,Atlanta Hawks,123
+2021-02-21 00:00:00,Box Score,Brooklyn Nets,112,Los Angeles Clippers,108
+2021-02-21 00:00:00,Box Score,Sacramento Kings,115,Milwaukee Bucks,128
+2021-02-22 00:00:00,Box Score,Chicago Bulls,120,Houston Rockets,100
+2021-02-22 00:00:00,Box Score,Memphis Grizzlies,92,Dallas Mavericks,102
+2021-02-22 00:00:00,Box Score,Miami Heat,108,Oklahoma City Thunder,94
+2021-02-22 00:00:00,Box Score,Portland Trail Blazers,100,Phoenix Suns,132
+2021-02-22 00:00:00,Box Score,Charlotte Hornets,110,Utah Jazz,132
+2021-02-22 00:00:00,Box Score,Washington Wizards,127,Los Angeles Lakers,124
+2021-02-23 00:00:00,Box Score,Atlanta Hawks,111,Cleveland Cavaliers,112
+2021-02-23 00:00:00,Box Score,Detroit Pistons,105,Orlando Magic,93
+2021-02-23 00:00:00,Box Score,Sacramento Kings,118,Brooklyn Nets,127
+2021-02-23 00:00:00,Box Score,Boston Celtics,107,Dallas Mavericks,110
+2021-02-23 00:00:00,Box Score,Golden State Warriors,114,New York Knicks,106
+2021-02-23 00:00:00,Box Score,Philadelphia 76ers,109,Toronto Raptors,102
+2021-02-23 00:00:00,Box Score,Minnesota Timberwolves,112,Milwaukee Bucks,139
+2021-02-23 00:00:00,Box Score,Portland Trail Blazers,106,Denver Nuggets,111
+2021-02-23 00:00:00,Box Score,Washington Wizards,116,Los Angeles Clippers,135
+2021-02-24 00:00:00,Box Score,Boston Celtics,112,Atlanta Hawks,127
+2021-02-24 00:00:00,Box Score,Houston Rockets,96,Cleveland Cavaliers,112
+2021-02-24 00:00:00,Box Score,Golden State Warriors,111,Indiana Pacers,107
+2021-02-24 00:00:00,Box Score,Minnesota Timberwolves,126,Chicago Bulls,133
+2021-02-24 00:00:00,Box Score,Toronto Raptors,108,Miami Heat,116
+2021-02-24 00:00:00,Box Score,Detroit Pistons,118,New Orleans Pelicans,128
+2021-02-24 00:00:00,Box Score,San Antonio Spurs,99,Oklahoma City Thunder,102
+2021-02-24 00:00:00,Box Score,Charlotte Hornets,124,Phoenix Suns,121
+2021-02-24 00:00:00,Box Score,Los Angeles Lakers,89,Utah Jazz,114
+2021-02-25 00:00:00,Box Score,Dallas Mavericks,97,Philadelphia 76ers,111
+2021-02-25 00:00:00,Box Score,Orlando Magic,92,Brooklyn Nets,129
+2021-02-25 00:00:00,Box Score,Sacramento Kings,121,New York Knicks,140
+2021-02-25 00:00:00,Box Score,Los Angeles Clippers,94,Memphis Grizzlies,122
+2021-02-25 00:00:00,Box Score,Washington Wizards,112,Denver Nuggets,110
+2021-02-25 00:00:00,Box Score,New Orleans Pelicans,125,Milwaukee Bucks,129
+2021-02-26 00:00:00,Box Score,Indiana Pacers,112,Boston Celtics,118
+2021-02-26 00:00:00,Box Score,Houston Rockets,111,Toronto Raptors,122
+2021-02-26 00:00:00,Box Score,Phoenix Suns,106,Chicago Bulls,97
+2021-02-26 00:00:00,Box Score,Sacramento Kings,110,Detroit Pistons,107
+2021-02-26 00:00:00,Box Score,Los Angeles Clippers,119,Memphis Grizzlies,99
+2021-02-26 00:00:00,Box Score,Utah Jazz,116,Miami Heat,124
+2021-02-26 00:00:00,Box Score,Atlanta Hawks,109,Oklahoma City Thunder,118
+2021-02-26 00:00:00,Box Score,Charlotte Hornets,121,Golden State Warriors,130
+2021-02-26 00:00:00,Box Score,Portland Trail Blazers,93,Los Angeles Lakers,102
+2021-02-27 00:00:00,Box Score,Cleveland Cavaliers,112,Philadelphia 76ers,109
+2021-02-27 00:00:00,Box Score,Minnesota Timberwolves,112,Washington Wizards,128
+2021-02-27 00:00:00,Box Score,Indiana Pacers,107,New York Knicks,110
+2021-02-27 00:00:00,Box Score,Denver Nuggets,126,Oklahoma City Thunder,96
+2021-02-27 00:00:00,Box Score,Utah Jazz,124,Orlando Magic,109
+2021-02-27 00:00:00,Box Score,New Orleans Pelicans,114,San Antonio Spurs,117
+2021-02-27 00:00:00,Box Score,Dallas Mavericks,115,Brooklyn Nets,98
+2021-02-28 00:00:00,Box Score,Los Angeles Clippers,100,Milwaukee Bucks,105
+2021-02-28 00:00:00,Box Score,Washington Wizards,110,Boston Celtics,111
+2021-02-28 00:00:00,Box Score,New York Knicks,109,Detroit Pistons,90
+2021-02-28 00:00:00,Box Score,Memphis Grizzlies,133,Houston Rockets,84
+2021-02-28 00:00:00,Box Score,Golden State Warriors,91,Los Angeles Lakers,117
+2021-02-28 00:00:00,Box Score,Atlanta Hawks,99,Miami Heat,109
+2021-02-28 00:00:00,Box Score,Phoenix Suns,118,Minnesota Timberwolves,99
+2021-02-28 00:00:00,Box Score,Charlotte Hornets,127,Sacramento Kings,126
+2021-03-01 00:00:00,Box Score,Dallas Mavericks,130,Orlando Magic,124
+2021-03-01 00:00:00,Box Score,Indiana Pacers,114,Philadelphia 76ers,130
+2021-03-01 00:00:00,Box Score,Denver Nuggets,118,Chicago Bulls,112
+2021-03-01 00:00:00,Box Score,Utah Jazz,124,New Orleans Pelicans,129
+2021-03-01 00:00:00,Box Score,Brooklyn Nets,124,San Antonio Spurs,113
+2021-03-01 00:00:00,Box Score,Cleveland Cavaliers,101,Houston Rockets,90
+2021-03-01 00:00:00,Box Score,Charlotte Hornets,111,Portland Trail Blazers,123
+2021-03-02 00:00:00,Box Score,Memphis Grizzlies,125,Washington Wizards,111
+2021-03-02 00:00:00,Box Score,Los Angeles Clippers,112,Boston Celtics,117
+2021-03-02 00:00:00,Box Score,Atlanta Hawks,94,Miami Heat,80
+2021-03-02 00:00:00,Box Score,New York Knicks,93,San Antonio Spurs,119
+2021-03-02 00:00:00,Box Score,Denver Nuggets,128,Milwaukee Bucks,97
+2021-03-02 00:00:00,Box Score,Phoenix Suns,114,Los Angeles Lakers,104
+2021-03-03 00:00:00,Box Score,Indiana Pacers,114,Cleveland Cavaliers,111
+2021-03-03 00:00:00,Box Score,Utah Jazz,123,Philadelphia 76ers,131
+2021-03-03 00:00:00,Box Score,Detroit Pistons,129,Toronto Raptors,105
+2021-03-03 00:00:00,Box Score,Brooklyn Nets,132,Houston Rockets,114
+2021-03-03 00:00:00,Box Score,Charlotte Hornets,135,Minnesota Timberwolves,102
+2021-03-03 00:00:00,Box Score,Chicago Bulls,128,New Orleans Pelicans,124
+2021-03-03 00:00:00,Box Score,Atlanta Hawks,115,Orlando Magic,112
+2021-03-03 00:00:00,Box Score,Oklahoma City Thunder,78,Dallas Mavericks,87
+2021-03-03 00:00:00,Box Score,Golden State Warriors,106,Portland Trail Blazers,108
+2021-03-03 00:00:00,Box Score,Los Angeles Lakers,120,Sacramento Kings,123
+2021-03-04 00:00:00,Box Score,Toronto Raptors,125,Boston Celtics,132
+2021-03-04 00:00:00,Box Score,Los Angeles Clippers,117,Washington Wizards,119
+2021-03-04 00:00:00,Box Score,Detroit Pistons,104,New York Knicks,114
+2021-03-04 00:00:00,Box Score,Denver Nuggets,113,Indiana Pacers,103
+2021-03-04 00:00:00,Box Score,Milwaukee Bucks,112,Memphis Grizzlies,111
+2021-03-04 00:00:00,Box Score,Miami Heat,103,New Orleans Pelicans,93
+2021-03-04 00:00:00,Box Score,Oklahoma City Thunder,107,San Antonio Spurs,102
+2021-03-04 00:00:00,Box Score,Golden State Warriors,98,Phoenix Suns,120
+2021-03-04 00:00:00,Box Score,Sacramento Kings,119,Portland Trail Blazers,123
+2021-03-10 00:00:00,Box Score,Washington Wizards,112,Memphis Grizzlies,127
+2021-03-10 00:00:00,Box Score,San Antonio Spurs,104,Dallas Mavericks,115
+2021-03-11 00:00:00,Box Score,Detroit Pistons,102,Charlotte Hornets,105
+2021-03-11 00:00:00,Box Score,Boston Celtics,109,Brooklyn Nets,121
+2021-03-11 00:00:00,Box Score,Atlanta Hawks,121,Toronto Raptors,120
+2021-03-11 00:00:00,Box Score,Philadelphia 76ers,127,Chicago Bulls,105
+2021-03-11 00:00:00,Box Score,Orlando Magic,103,Miami Heat,111
+2021-03-11 00:00:00,Box Score,New York Knicks,101,Milwaukee Bucks,134
+2021-03-11 00:00:00,Box Score,Minnesota Timberwolves,135,New Orleans Pelicans,105
+2021-03-11 00:00:00,Box Score,Dallas Mavericks,108,Oklahoma City Thunder,116
+2021-03-11 00:00:00,Box Score,Golden State Warriors,104,Los Angeles Clippers,130
+2021-03-11 00:00:00,Box Score,Phoenix Suns,127,Portland Trail Blazers,121
+2021-03-11 00:00:00,Box Score,Houston Rockets,105,Sacramento Kings,125
+2021-03-12 00:00:00,Box Score,Denver Nuggets,103,Memphis Grizzlies,102
+2021-03-12 00:00:00,Box Score,Cleveland Cavaliers,82,New Orleans Pelicans,116
+2021-03-12 00:00:00,Box Score,Philadelphia 76ers,127,Washington Wizards,101
+2021-03-12 00:00:00,Box Score,Miami Heat,101,Chicago Bulls,90
+2021-03-12 00:00:00,Box Score,Orlando Magic,77,San Antonio Spurs,104
+2021-03-12 00:00:00,Box Score,Houston Rockets,99,Utah Jazz,114
+2021-03-12 00:00:00,Box Score,Indiana Pacers,100,Los Angeles Lakers,105
+2021-03-13 00:00:00,Box Score,New York Knicks,119,Oklahoma City Thunder,97
+2021-03-13 00:00:00,Box Score,Detroit Pistons,95,Brooklyn Nets,100
+2021-03-13 00:00:00,Box Score,Toronto Raptors,104,Charlotte Hornets,114
+2021-03-13 00:00:00,Box Score,Milwaukee Bucks,125,Washington Wizards,119
+2021-03-13 00:00:00,Box Score,Sacramento Kings,106,Atlanta Hawks,121
+2021-03-13 00:00:00,Box Score,Portland Trail Blazers,125,Minnesota Timberwolves,121
+2021-03-13 00:00:00,Box Score,Dallas Mavericks,116,Denver Nuggets,103
+2021-03-13 00:00:00,Box Score,Indiana Pacers,122,Phoenix Suns,111
+2021-03-14 00:00:00,Box Score,Memphis Grizzlies,122,Oklahoma City Thunder,128
+2021-03-14 00:00:00,Box Score,Utah Jazz,119,Golden State Warriors,131
+2021-03-14 00:00:00,Box Score,San Antonio Spurs,99,Philadelphia 76ers,134
+2021-03-14 00:00:00,Box Score,Miami Heat,102,Orlando Magic,97
+2021-03-14 00:00:00,Box Score,Cleveland Cavaliers,82,Atlanta Hawks,100
+2021-03-14 00:00:00,Box Score,Boston Celtics,134,Houston Rockets,107
+2021-03-14 00:00:00,Box Score,Portland Trail Blazers,112,Minnesota Timberwolves,114
+2021-03-14 00:00:00,Box Score,Toronto Raptors,95,Chicago Bulls,118
+2021-03-14 00:00:00,Box Score,Los Angeles Clippers,115,New Orleans Pelicans,135
+2021-03-15 00:00:00,Box Score,Sacramento Kings,116,Charlotte Hornets,122
+2021-03-15 00:00:00,Box Score,Milwaukee Bucks,133,Washington Wizards,122
+2021-03-15 00:00:00,Box Score,New York Knicks,112,Brooklyn Nets,117
+2021-03-15 00:00:00,Box Score,San Antonio Spurs,109,Detroit Pistons,99
+2021-03-15 00:00:00,Box Score,Los Angeles Clippers,109,Dallas Mavericks,99
+2021-03-15 00:00:00,Box Score,Indiana Pacers,106,Denver Nuggets,121
+2021-03-15 00:00:00,Box Score,Memphis Grizzlies,99,Phoenix Suns,122
+2021-03-15 00:00:00,Box Score,Los Angeles Lakers,128,Golden State Warriors,97
+2021-03-16 00:00:00,Box Score,Utah Jazz,117,Boston Celtics,109
+2021-03-16 00:00:00,Box Score,Oklahoma City Thunder,102,Chicago Bulls,123
+2021-03-16 00:00:00,Box Score,Atlanta Hawks,119,Houston Rockets,107
+2021-03-16 00:00:00,Box Score,Cleveland Cavaliers,98,Miami Heat,113
+2021-03-16 00:00:00,Box Score,New York Knicks,96,Philadelphia 76ers,99
+2021-03-16 00:00:00,Box Score,New Orleans Pelicans,124,Portland Trail Blazers,125
+2021-03-16 00:00:00,Box Score,Minnesota Timberwolves,121,Los Angeles Lakers,137
+2021-03-17 00:00:00,Box Score,Toronto Raptors,112,Detroit Pistons,116
+2021-03-17 00:00:00,Box Score,Brooklyn Nets,124,Indiana Pacers,115
+2021-03-17 00:00:00,Box Score,Milwaukee Bucks,109,Philadelphia 76ers,105
+2021-03-17 00:00:00,Box Score,Sacramento Kings,121,Washington Wizards,119
+2021-03-17 00:00:00,Box Score,San Antonio Spurs,106,Chicago Bulls,99
+2021-03-17 00:00:00,Box Score,Boston Celtics,110,Cleveland Cavaliers,117
+2021-03-17 00:00:00,Box Score,Golden State Warriors,108,Houston Rockets,94
+2021-03-17 00:00:00,Box Score,Charlotte Hornets,104,Denver Nuggets,129
+2021-03-17 00:00:00,Box Score,Miami Heat,85,Memphis Grizzlies,89
+2021-03-17 00:00:00,Box Score,Los Angeles Clippers,89,Dallas Mavericks,105
+2021-03-18 00:00:00,Box Score,Utah Jazz,122,Washington Wizards,131
+2021-03-18 00:00:00,Box Score,Oklahoma City Thunder,93,Atlanta Hawks,116
+2021-03-18 00:00:00,Box Score,Orlando Magic,93,New York Knicks,94
+2021-03-18 00:00:00,Box Score,Minnesota Timberwolves,123,Phoenix Suns,119
+2021-03-18 00:00:00,Box Score,New Orleans Pelicans,93,Portland Trail Blazers,101
+2021-03-18 00:00:00,Box Score,Charlotte Hornets,105,Los Angeles Lakers,116
+2021-03-19 00:00:00,Box Score,Sacramento Kings,107,Boston Celtics,96
+2021-03-19 00:00:00,Box Score,San Antonio Spurs,116,Cleveland Cavaliers,110
+2021-03-19 00:00:00,Box Score,Detroit Pistons,113,Houston Rockets,100
+2021-03-19 00:00:00,Box Score,Golden State Warriors,116,Memphis Grizzlies,103
+2021-03-19 00:00:00,Box Score,Indiana Pacers,137,Miami Heat,110
+2021-03-19 00:00:00,Box Score,Brooklyn Nets,113,Orlando Magic,121
+2021-03-19 00:00:00,Box Score,Utah Jazz,115,Toronto Raptors,112
+2021-03-19 00:00:00,Box Score,Chicago Bulls,127,Denver Nuggets,131
+2021-03-19 00:00:00,Box Score,Minnesota Timberwolves,101,Phoenix Suns,113
+2021-03-19 00:00:00,Box Score,Dallas Mavericks,119,Portland Trail Blazers,125
+2021-03-20 00:00:00,Box Score,Atlanta Hawks,99,Los Angeles Lakers,94
+2021-03-20 00:00:00,Box Score,Golden State Warriors,103,Memphis Grizzlies,111
+2021-03-20 00:00:00,Box Score,Sacramento Kings,105,Philadelphia 76ers,129
+2021-03-20 00:00:00,Box Score,San Antonio Spurs,113,Milwaukee Bucks,120
+2021-03-20 00:00:00,Box Score,Charlotte Hornets,98,Los Angeles Clippers,125
+2021-03-21 00:00:00,Box Score,Indiana Pacers,109,Miami Heat,106
+2021-03-21 00:00:00,Box Score,Oklahoma City Thunder,114,Houston Rockets,112
+2021-03-21 00:00:00,Box Score,New Orleans Pelicans,113,Denver Nuggets,108
+2021-03-21 00:00:00,Box Score,Orlando Magic,96,Boston Celtics,112
+2021-03-21 00:00:00,Box Score,Washington Wizards,106,Brooklyn Nets,113
+2021-03-21 00:00:00,Box Score,Toronto Raptors,105,Cleveland Cavaliers,116
+2021-03-21 00:00:00,Box Score,Chicago Bulls,100,Detroit Pistons,86
+2021-03-21 00:00:00,Box Score,Philadelphia 76ers,101,New York Knicks,100
+2021-03-21 00:00:00,Box Score,Los Angeles Lakers,94,Phoenix Suns,111
+2021-03-21 00:00:00,Box Score,Dallas Mavericks,132,Portland Trail Blazers,92
+2021-03-22 00:00:00,Box Score,Sacramento Kings,119,Cleveland Cavaliers,105
+2021-03-22 00:00:00,Box Score,Oklahoma City Thunder,112,Minnesota Timberwolves,103
+2021-03-22 00:00:00,Box Score,Charlotte Hornets,100,San Antonio Spurs,97
+2021-03-22 00:00:00,Box Score,Utah Jazz,120,Chicago Bulls,95
+2021-03-22 00:00:00,Box Score,Toronto Raptors,99,Houston Rockets,117
+2021-03-22 00:00:00,Box Score,Boston Celtics,126,Memphis Grizzlies,132
+2021-03-22 00:00:00,Box Score,Indiana Pacers,113,Milwaukee Bucks,140
+2021-03-22 00:00:00,Box Score,Atlanta Hawks,110,Los Angeles Clippers,119
+2021-03-23 00:00:00,Box Score,Denver Nuggets,110,Orlando Magic,99
+2021-03-23 00:00:00,Box Score,Los Angeles Lakers,111,New Orleans Pelicans,128
+2021-03-23 00:00:00,Box Score,Washington Wizards,113,New York Knicks,131
+2021-03-23 00:00:00,Box Score,Phoenix Suns,110,Miami Heat,100
+2021-03-23 00:00:00,Box Score,Philadelphia 76ers,108,Golden State Warriors,98
+2021-03-23 00:00:00,Box Score,Brooklyn Nets,116,Portland Trail Blazers,112
+2021-03-24 00:00:00,Box Score,Detroit Pistons,111,Indiana Pacers,116
+2021-03-24 00:00:00,Box Score,Boston Celtics,119,Milwaukee Bucks,121
+2021-03-24 00:00:00,Box Score,Denver Nuggets,111,Toronto Raptors,135
+2021-03-24 00:00:00,Box Score,Cleveland Cavaliers,103,Chicago Bulls,94
+2021-03-24 00:00:00,Box Score,Charlotte Hornets,122,Houston Rockets,97
+2021-03-24 00:00:00,Box Score,Dallas Mavericks,128,Minnesota Timberwolves,108
+2021-03-24 00:00:00,Box Score,Memphis Grizzlies,116,Oklahoma City Thunder,107
+2021-03-24 00:00:00,Box Score,Phoenix Suns,111,Orlando Magic,112
+2021-03-24 00:00:00,Box Score,Los Angeles Clippers,134,San Antonio Spurs,101
+2021-03-24 00:00:00,Box Score,Atlanta Hawks,108,Sacramento Kings,110
+2021-03-24 00:00:00,Box Score,Brooklyn Nets,88,Utah Jazz,118
+2021-03-25 00:00:00,Box Score,Portland Trail Blazers,125,Miami Heat,122
+2021-03-25 00:00:00,Box Score,Washington Wizards,102,New York Knicks,106
+2021-03-25 00:00:00,Box Score,Los Angeles Clippers,98,San Antonio Spurs,85
+2021-03-25 00:00:00,Box Score,Philadelphia 76ers,109,Los Angeles Lakers,101
+2021-03-25 00:00:00,Box Score,Golden State Warriors,119,Sacramento Kings,141
+2021-03-26 00:00:00,Box Score,Brooklyn Nets,113,Detroit Pistons,111
+2021-03-26 00:00:00,Box Score,Boston Celtics,122,Milwaukee Bucks,114
+2021-03-26 00:00:00,Box Score,Phoenix Suns,104,Toronto Raptors,100
+2021-03-26 00:00:00,Box Score,Miami Heat,105,Charlotte Hornets,110
+2021-03-26 00:00:00,Box Score,Houston Rockets,101,Minnesota Timberwolves,107
+2021-03-26 00:00:00,Box Score,Denver Nuggets,113,New Orleans Pelicans,108
+2021-03-26 00:00:00,Box Score,Portland Trail Blazers,112,Orlando Magic,105
+2021-03-26 00:00:00,Box Score,Indiana Pacers,109,Dallas Mavericks,94
+2021-03-26 00:00:00,Box Score,Memphis Grizzlies,114,Utah Jazz,117
+2021-03-26 00:00:00,Box Score,Atlanta Hawks,124,Golden State Warriors,108
+2021-03-26 00:00:00,Box Score,Cleveland Cavaliers,86,Los Angeles Lakers,100
+2021-03-27 00:00:00,Box Score,New York Knicks,102,Milwaukee Bucks,96
+2021-03-27 00:00:00,Box Score,Houston Rockets,129,Minnesota Timberwolves,107
+2021-03-27 00:00:00,Box Score,Detroit Pistons,92,Washington Wizards,106
+2021-03-27 00:00:00,Box Score,Chicago Bulls,104,San Antonio Spurs,120
+2021-03-27 00:00:00,Box Score,Dallas Mavericks,103,New Orleans Pelicans,112
+2021-03-27 00:00:00,Box Score,Boston Celtics,111,Oklahoma City Thunder,94
+2021-03-27 00:00:00,Box Score,Memphis Grizzlies,110,Utah Jazz,126
+2021-03-27 00:00:00,Box Score,Philadelphia 76ers,112,Los Angeles Clippers,122
+2021-03-27 00:00:00,Box Score,Cleveland Cavaliers,98,Sacramento Kings,100
+2021-03-28 00:00:00,Box Score,Phoenix Suns,101,Charlotte Hornets,97
+2021-03-28 00:00:00,Box Score,Portland Trail Blazers,122,Toronto Raptors,117
+2021-03-28 00:00:00,Box Score,Atlanta Hawks,102,Denver Nuggets,126
+2021-03-28 00:00:00,Box Score,Orlando Magic,93,Los Angeles Lakers,96
+2021-03-29 00:00:00,Box Score,Indiana Pacers,124,Washington Wizards,132
+2021-03-29 00:00:00,Box Score,New Orleans Pelicans,115,Boston Celtics,109
+2021-03-29 00:00:00,Box Score,Minnesota Timberwolves,107,Brooklyn Nets,112
+2021-03-29 00:00:00,Box Score,Miami Heat,98,New York Knicks,88
+2021-03-29 00:00:00,Box Score,Toronto Raptors,104,Detroit Pistons,118
+2021-03-29 00:00:00,Box Score,Memphis Grizzlies,120,Houston Rockets,110
+2021-03-29 00:00:00,Box Score,Dallas Mavericks,127,Oklahoma City Thunder,106
+2021-03-29 00:00:00,Box Score,Sacramento Kings,132,San Antonio Spurs,115
+2021-03-29 00:00:00,Box Score,Cleveland Cavaliers,75,Utah Jazz,114
+2021-03-29 00:00:00,Box Score,Chicago Bulls,102,Golden State Warriors,116
+2021-03-29 00:00:00,Box Score,Milwaukee Bucks,105,Los Angeles Clippers,129
+2021-03-30 00:00:00,Box Score,Charlotte Hornets,114,Washington Wizards,104
+2021-03-30 00:00:00,Box Score,Philadelphia 76ers,95,Denver Nuggets,104
+2021-03-30 00:00:00,Box Score,Orlando Magic,103,Los Angeles Clippers,96
+2021-03-30 00:00:00,Box Score,Atlanta Hawks,110,Phoenix Suns,117
+2021-03-31 00:00:00,Box Score,Portland Trail Blazers,124,Detroit Pistons,101
+2021-03-31 00:00:00,Box Score,Miami Heat,92,Indiana Pacers,87
+2021-03-31 00:00:00,Box Score,Dallas Mavericks,113,Boston Celtics,108
+2021-03-31 00:00:00,Box Score,Houston Rockets,108,Brooklyn Nets,120
+2021-03-31 00:00:00,Box Score,Utah Jazz,111,Memphis Grizzlies,107
+2021-03-31 00:00:00,Box Score,New York Knicks,101,Minnesota Timberwolves,102
+2021-03-31 00:00:00,Box Score,Toronto Raptors,103,Oklahoma City Thunder,113
+2021-03-31 00:00:00,Box Score,Sacramento Kings,106,San Antonio Spurs,120
+2021-03-31 00:00:00,Box Score,Milwaukee Bucks,112,Los Angeles Lakers,97
+2021-03-31 00:00:00,Box Score,Chicago Bulls,116,Phoenix Suns,121
+2021-04-01 00:00:00,Box Score,Philadelphia 76ers,114,Cleveland Cavaliers,94
+2021-04-01 00:00:00,Box Score,Washington Wizards,91,Detroit Pistons,120
+2021-04-01 00:00:00,Box Score,Charlotte Hornets,89,Brooklyn Nets,111
+2021-04-01 00:00:00,Box Score,Golden State Warriors,109,Miami Heat,116
+2021-04-01 00:00:00,Box Score,Orlando Magic,115,New Orleans Pelicans,110
+2021-04-01 00:00:00,Box Score,Atlanta Hawks,134,San Antonio Spurs,129
+2021-04-01 00:00:00,Box Score,Denver Nuggets,101,Los Angeles Clippers,94
+2021-04-02 00:00:00,Box Score,Golden State Warriors,77,Toronto Raptors,130
+2021-04-02 00:00:00,Box Score,Houston Rockets,102,Boston Celtics,118
+2021-04-02 00:00:00,Box Score,Dallas Mavericks,99,New York Knicks,86
+2021-04-02 00:00:00,Box Score,Charlotte Hornets,114,Indiana Pacers,97
+2021-04-02 00:00:00,Box Score,Minnesota Timberwolves,108,Memphis Grizzlies,120
+2021-04-02 00:00:00,Box Score,Atlanta Hawks,126,New Orleans Pelicans,103
+2021-04-02 00:00:00,Box Score,Chicago Bulls,106,Utah Jazz,113
+2021-04-02 00:00:00,Box Score,Oklahoma City Thunder,103,Phoenix Suns,140
+2021-04-02 00:00:00,Box Score,Milwaukee Bucks,127,Portland Trail Blazers,109
+2021-04-02 00:00:00,Box Score,Los Angeles Lakers,115,Sacramento Kings,94
+2021-04-03 00:00:00,Box Score,Dallas Mavericks,109,Washington Wizards,87
+2021-04-03 00:00:00,Box Score,New York Knicks,125,Detroit Pistons,81
+2021-04-03 00:00:00,Box Score,Cleveland Cavaliers,101,Miami Heat,115
+2021-04-03 00:00:00,Box Score,Minnesota Timberwolves,113,Philadelphia 76ers,122
+2021-04-03 00:00:00,Box Score,Indiana Pacers,139,San Antonio Spurs,133
+2021-04-03 00:00:00,Box Score,Orlando Magic,91,Utah Jazz,137
+2021-04-03 00:00:00,Box Score,Oklahoma City Thunder,85,Portland Trail Blazers,133
+2021-04-03 00:00:00,Box Score,Milwaukee Bucks,129,Sacramento Kings,128
+2021-04-04 00:00:00,Box Score,Brooklyn Nets,107,Chicago Bulls,115
+2021-04-04 00:00:00,Box Score,Los Angeles Lakers,86,Los Angeles Clippers,104
+2021-04-04 00:00:00,Box Score,Charlotte Hornets,86,Boston Celtics,116
+2021-04-04 00:00:00,Box Score,Memphis Grizzlies,116,Philadelphia 76ers,100
+2021-04-04 00:00:00,Box Score,Golden State Warriors,111,Atlanta Hawks,117
+2021-04-04 00:00:00,Box Score,New Orleans Pelicans,122,Houston Rockets,115
+2021-04-04 00:00:00,Box Score,Orlando Magic,109,Denver Nuggets,119
+2021-04-05 00:00:00,Box Score,New York Knicks,112,Brooklyn Nets,114
+2021-04-05 00:00:00,Box Score,Utah Jazz,103,Dallas Mavericks,111
+2021-04-05 00:00:00,Box Score,Sacramento Kings,106,Minnesota Timberwolves,116
+2021-04-05 00:00:00,Box Score,Detroit Pistons,132,Oklahoma City Thunder,108
+2021-04-05 00:00:00,Box Score,Cleveland Cavaliers,125,San Antonio Spurs,101
+2021-04-05 00:00:00,Box Score,Washington Wizards,101,Toronto Raptors,103
+2021-04-05 00:00:00,Box Score,Phoenix Suns,133,Houston Rockets,130
+2021-04-06 00:00:00,Box Score,Chicago Bulls,113,Indiana Pacers,97
+2021-04-06 00:00:00,Box Score,New Orleans Pelicans,107,Atlanta Hawks,123
+2021-04-06 00:00:00,Box Score,Philadelphia 76ers,106,Boston Celtics,96
+2021-04-06 00:00:00,Box Score,Los Angeles Lakers,110,Toronto Raptors,101
+2021-04-06 00:00:00,Box Score,Memphis Grizzlies,124,Miami Heat,112
+2021-04-06 00:00:00,Box Score,Detroit Pistons,119,Denver Nuggets,134
+2021-04-06 00:00:00,Box Score,Milwaukee Bucks,121,Golden State Warriors,122
+2021-04-06 00:00:00,Box Score,Portland Trail Blazers,116,Los Angeles Clippers,133
+2021-04-07 00:00:00,Box Score,Minnesota Timberwolves,137,Indiana Pacers,141
+2021-04-07 00:00:00,Box Score,Washington Wizards,131,Orlando Magic,116
+2021-04-07 00:00:00,Box Score,New York Knicks,99,Boston Celtics,101
+2021-04-07 00:00:00,Box Score,New Orleans Pelicans,111,Brooklyn Nets,139
+2021-04-07 00:00:00,Box Score,Memphis Grizzlies,131,Atlanta Hawks,113
+2021-04-07 00:00:00,Box Score,Dallas Mavericks,93,Houston Rockets,102
+2021-04-07 00:00:00,Box Score,Charlotte Hornets,113,Oklahoma City Thunder,102
+2021-04-07 00:00:00,Box Score,San Antonio Spurs,96,Denver Nuggets,106
+2021-04-07 00:00:00,Box Score,Utah Jazz,113,Phoenix Suns,117
+2021-04-08 00:00:00,Box Score,Los Angeles Lakers,104,Miami Heat,110
+2021-04-08 00:00:00,Box Score,Chicago Bulls,122,Toronto Raptors,113
+2021-04-08 00:00:00,Box Score,Cleveland Cavaliers,129,Oklahoma City Thunder,102
+2021-04-08 00:00:00,Box Score,Milwaukee Bucks,101,Dallas Mavericks,116
+2021-04-08 00:00:00,Box Score,Phoenix Suns,103,Los Angeles Clippers,113
+2021-04-08 00:00:00,Box Score,Detroit Pistons,113,Sacramento Kings,101
+2021-04-08 00:00:00,Box Score,Portland Trail Blazers,103,Utah Jazz,122
+2021-04-09 00:00:00,Box Score,Indiana Pacers,111,Orlando Magic,106
+2021-04-09 00:00:00,Box Score,Minnesota Timberwolves,136,Boston Celtics,145
+2021-04-09 00:00:00,Box Score,Memphis Grizzlies,129,New York Knicks,133
+2021-04-09 00:00:00,Box Score,Chicago Bulls,108,Atlanta Hawks,120
+2021-04-09 00:00:00,Box Score,Philadelphia 76ers,94,New Orleans Pelicans,101
+2021-04-09 00:00:00,Box Score,San Antonio Spurs,119,Denver Nuggets,121
+2021-04-09 00:00:00,Box Score,Charlotte Hornets,127,Milwaukee Bucks,119
+2021-04-09 00:00:00,Box Score,Washington Wizards,110,Golden State Warriors,107
+2021-04-09 00:00:00,Box Score,Houston Rockets,109,Los Angeles Clippers,126
+2021-04-10 00:00:00,Box Score,Toronto Raptors,135,Cleveland Cavaliers,115
+2021-04-10 00:00:00,Box Score,Los Angeles Lakers,126,Brooklyn Nets,101
+2021-04-10 00:00:00,Box Score,Philadelphia 76ers,117,Oklahoma City Thunder,93
+2021-04-10 00:00:00,Box Score,Sacramento Kings,112,Utah Jazz,128
+2021-04-10 00:00:00,Box Score,Houston Rockets,109,Golden State Warriors,125
+2021-04-10 00:00:00,Box Score,Washington Wizards,106,Phoenix Suns,134
+2021-04-10 00:00:00,Box Score,Detroit Pistons,103,Portland Trail Blazers,118
+2021-04-11 00:00:00,Box Score,Atlanta Hawks,105,Charlotte Hornets,101
+2021-04-11 00:00:00,Box Score,Boston Celtics,105,Denver Nuggets,87
+2021-04-11 00:00:00,Box Score,New Orleans Pelicans,116,Cleveland Cavaliers,109
+2021-04-11 00:00:00,Box Score,Milwaukee Bucks,124,Orlando Magic,87
+2021-04-11 00:00:00,Box Score,San Antonio Spurs,119,Dallas Mavericks,117
+2021-04-11 00:00:00,Box Score,Indiana Pacers,132,Memphis Grizzlies,125
+2021-04-11 00:00:00,Box Score,Chicago Bulls,117,Minnesota Timberwolves,121
+2021-04-11 00:00:00,Box Score,Toronto Raptors,96,New York Knicks,102
+2021-04-11 00:00:00,Box Score,Detroit Pistons,124,Los Angeles Clippers,131
+2021-04-11 00:00:00,Box Score,Miami Heat,107,Portland Trail Blazers,98
+2021-04-12 00:00:00,Box Score,Philadelphia 76ers,113,Dallas Mavericks,95
+2021-04-12 00:00:00,Box Score,Los Angeles Lakers,96,New York Knicks,111
+2021-04-12 00:00:00,Box Score,San Antonio Spurs,120,Orlando Magic,97
+2021-04-12 00:00:00,Box Score,Chicago Bulls,90,Memphis Grizzlies,101
+2021-04-12 00:00:00,Box Score,Sacramento Kings,110,New Orleans Pelicans,117
+2021-04-12 00:00:00,Box Score,Washington Wizards,125,Utah Jazz,121
+2021-04-12 00:00:00,Box Score,Denver Nuggets,107,Golden State Warriors,116
+2021-04-12 00:00:00,Box Score,Houston Rockets,120,Phoenix Suns,126
+2021-04-13 00:00:00,Box Score,Brooklyn Nets,127,Minnesota Timberwolves,97
+2021-04-13 00:00:00,Box Score,Los Angeles Clippers,126,Indiana Pacers,115
+2021-04-13 00:00:00,Box Score,Atlanta Hawks,108,Toronto Raptors,103
+2021-04-13 00:00:00,Box Score,Los Angeles Lakers,101,Charlotte Hornets,93
+2021-04-13 00:00:00,Box Score,Oklahoma City Thunder,96,Utah Jazz,106
+2021-04-13 00:00:00,Box Score,Miami Heat,86,Phoenix Suns,106
+2021-04-13 00:00:00,Box Score,Boston Celtics,116,Portland Trail Blazers,115
+2021-04-14 00:00:00,Box Score,Milwaukee Bucks,130,Minnesota Timberwolves,105
+2021-04-14 00:00:00,Box Score,Cleveland Cavaliers,103,Charlotte Hornets,90
+2021-04-14 00:00:00,Box Score,Brooklyn Nets,117,Philadelphia 76ers,123
+2021-04-14 00:00:00,Box Score,San Antonio Spurs,112,Toronto Raptors,117
+2021-04-14 00:00:00,Box Score,Orlando Magic,115,Chicago Bulls,106
+2021-04-14 00:00:00,Box Score,Los Angeles Clippers,100,Detroit Pistons,98
+2021-04-14 00:00:00,Box Score,New York Knicks,116,New Orleans Pelicans,106
+2021-04-14 00:00:00,Box Score,Indiana Pacers,132,Houston Rockets,124
+2021-04-14 00:00:00,Box Score,Golden State Warriors,147,Oklahoma City Thunder,109
+2021-04-14 00:00:00,Box Score,Dallas Mavericks,114,Memphis Grizzlies,113
+2021-04-14 00:00:00,Box Score,Miami Heat,106,Denver Nuggets,123
+2021-04-14 00:00:00,Box Score,Washington Wizards,123,Sacramento Kings,111
+2021-04-15 00:00:00,Box Score,Milwaukee Bucks,120,Atlanta Hawks,109
+2021-04-15 00:00:00,Box Score,Golden State Warriors,119,Cleveland Cavaliers,101
+2021-04-15 00:00:00,Box Score,Boston Celtics,121,Los Angeles Lakers,113
+2021-04-15 00:00:00,Box Score,Sacramento Kings,114,Phoenix Suns,122
+2021-04-16 00:00:00,Box Score,Indiana Pacers,111,Utah Jazz,119
+2021-04-16 00:00:00,Box Score,Oklahoma City Thunder,104,Detroit Pistons,110
+2021-04-16 00:00:00,Box Score,Los Angeles Clippers,103,Philadelphia 76ers,106
+2021-04-16 00:00:00,Box Score,New Orleans Pelicans,115,Washington Wizards,117
+2021-04-16 00:00:00,Box Score,Charlotte Hornets,115,Brooklyn Nets,130
+2021-04-16 00:00:00,Box Score,Orlando Magic,102,Toronto Raptors,113
+2021-04-16 00:00:00,Box Score,Memphis Grizzlies,126,Chicago Bulls,115
+2021-04-16 00:00:00,Box Score,Denver Nuggets,128,Houston Rockets,99
+2021-04-16 00:00:00,Box Score,Miami Heat,111,Minnesota Timberwolves,119
+2021-04-16 00:00:00,Box Score,Portland Trail Blazers,107,San Antonio Spurs,106
+2021-04-16 00:00:00,Box Score,New York Knicks,117,Dallas Mavericks,109
+2021-04-17 00:00:00,Box Score,Utah Jazz,115,Los Angeles Lakers,127
+2021-04-17 00:00:00,Box Score,Cleveland Cavaliers,96,Chicago Bulls,106
+2021-04-17 00:00:00,Box Score,Detroit Pistons,100,Washington Wizards,121
+2021-04-17 00:00:00,Box Score,Golden State Warriors,114,Boston Celtics,119
+2021-04-17 00:00:00,Box Score,Memphis Grizzlies,128,Milwaukee Bucks,115
+2021-04-17 00:00:00,Box Score,San Antonio Spurs,111,Phoenix Suns,85
+2021-04-18 00:00:00,Box Score,Indiana Pacers,117,Atlanta Hawks,129
+2021-04-18 00:00:00,Box Score,New Orleans Pelicans,112,New York Knicks,122
+2021-04-18 00:00:00,Box Score,Brooklyn Nets,107,Miami Heat,109
+2021-04-18 00:00:00,Box Score,Portland Trail Blazers,101,Charlotte Hornets,109
+2021-04-18 00:00:00,Box Score,Houston Rockets,114,Orlando Magic,110
+2021-04-18 00:00:00,Box Score,Oklahoma City Thunder,106,Toronto Raptors,112
+2021-04-18 00:00:00,Box Score,Sacramento Kings,121,Dallas Mavericks,107
+2021-04-18 00:00:00,Box Score,Minnesota Timberwolves,105,Los Angeles Clippers,124
+2021-04-19 00:00:00,Box Score,Cleveland Cavaliers,105,Detroit Pistons,109
+2021-04-19 00:00:00,Box Score,Chicago Bulls,102,Boston Celtics,96
+2021-04-19 00:00:00,Box Score,Golden State Warriors,107,Philadelphia 76ers,96
+2021-04-19 00:00:00,Box Score,San Antonio Spurs,109,Indiana Pacers,94
+2021-04-19 00:00:00,Box Score,Houston Rockets,91,Miami Heat,113
+2021-04-19 00:00:00,Box Score,Phoenix Suns,128,Milwaukee Bucks,127
+2021-04-19 00:00:00,Box Score,Oklahoma City Thunder,107,Washington Wizards,119
+2021-04-19 00:00:00,Box Score,Memphis Grizzlies,137,Denver Nuggets,139
+2021-04-19 00:00:00,Box Score,Utah Jazz,111,Los Angeles Lakers,97
+2021-04-20 00:00:00,Box Score,Orlando Magic,96,Atlanta Hawks,112
+2021-04-20 00:00:00,Box Score,Brooklyn Nets,134,New Orleans Pelicans,129
+2021-04-20 00:00:00,Box Score,Charlotte Hornets,97,New York Knicks,109
+2021-04-20 00:00:00,Box Score,Los Angeles Clippers,113,Portland Trail Blazers,112
+2021-04-20 00:00:00,Box Score,Minnesota Timberwolves,134,Sacramento Kings,120
+2021-04-21 00:00:00,Box Score,Chicago Bulls,105,Cleveland Cavaliers,121
+2021-04-21 00:00:00,Box Score,Oklahoma City Thunder,116,Indiana Pacers,122
+2021-04-21 00:00:00,Box Score,Phoenix Suns,116,Philadelphia 76ers,113
+2021-04-21 00:00:00,Box Score,Brooklyn Nets,103,Toronto Raptors,114
+2021-04-21 00:00:00,Box Score,Golden State Warriors,114,Washington Wizards,118
+2021-04-21 00:00:00,Box Score,Utah Jazz,112,Houston Rockets,89
+2021-04-21 00:00:00,Box Score,Atlanta Hawks,127,New York Knicks,137
+2021-04-21 00:00:00,Box Score,Detroit Pistons,117,Dallas Mavericks,127
+2021-04-21 00:00:00,Box Score,Miami Heat,107,San Antonio Spurs,87
+2021-04-21 00:00:00,Box Score,Memphis Grizzlies,105,Los Angeles Clippers,117
+2021-04-21 00:00:00,Box Score,Denver Nuggets,106,Portland Trail Blazers,105
+2021-04-21 00:00:00,Box Score,Minnesota Timberwolves,125,Sacramento Kings,128
+2021-04-22 00:00:00,Box Score,Phoenix Suns,86,Boston Celtics,99
+2021-04-22 00:00:00,Box Score,Philadelphia 76ers,117,Milwaukee Bucks,124
+2021-04-22 00:00:00,Box Score,New Orleans Pelicans,135,Orlando Magic,100
+2021-04-22 00:00:00,Box Score,Detroit Pistons,91,San Antonio Spurs,106
+2021-04-22 00:00:00,Box Score,Charlotte Hornets,91,Chicago Bulls,108
+2021-04-22 00:00:00,Box Score,Los Angeles Lakers,110,Dallas Mavericks,115
+2021-04-23 00:00:00,Box Score,Miami Heat,103,Atlanta Hawks,118
+2021-04-23 00:00:00,Box Score,Boston Celtics,104,Brooklyn Nets,109
+2021-04-23 00:00:00,Box Score,Cleveland Cavaliers,102,Charlotte Hornets,108
+2021-04-23 00:00:00,Box Score,Los Angeles Clippers,109,Houston Rockets,104
+2021-04-23 00:00:00,Box Score,Washington Wizards,129,Oklahoma City Thunder,109
+2021-04-23 00:00:00,Box Score,Denver Nuggets,97,Golden State Warriors,118
+2021-04-23 00:00:00,Box Score,Memphis Grizzlies,130,Portland Trail Blazers,128
+2021-04-24 00:00:00,Box Score,Toronto Raptors,103,New York Knicks,120
+2021-04-24 00:00:00,Box Score,Philadelphia 76ers,94,Milwaukee Bucks,132
+2021-04-24 00:00:00,Box Score,Detroit Pistons,109,Indiana Pacers,115
+2021-04-24 00:00:00,Box Score,Chicago Bulls,101,Miami Heat,106
+2021-04-24 00:00:00,Box Score,San Antonio Spurs,110,New Orleans Pelicans,108
+2021-04-24 00:00:00,Box Score,Los Angeles Lakers,93,Dallas Mavericks,108
+2021-04-24 00:00:00,Box Score,Minnesota Timberwolves,101,Utah Jazz,96
+2021-04-24 00:00:00,Box Score,Houston Rockets,116,Denver Nuggets,129
+2021-04-25 00:00:00,Box Score,Boston Celtics,104,Charlotte Hornets,125
+2021-04-25 00:00:00,Box Score,Phoenix Suns,119,Brooklyn Nets,128
+2021-04-25 00:00:00,Box Score,Memphis Grizzlies,120,Portland Trail Blazers,113
+2021-04-25 00:00:00,Box Score,Cleveland Cavaliers,110,Washington Wizards,119
+2021-04-25 00:00:00,Box Score,Milwaukee Bucks,104,Atlanta Hawks,111
+2021-04-25 00:00:00,Box Score,Indiana Pacers,131,Orlando Magic,112
+2021-04-25 00:00:00,Box Score,Sacramento Kings,113,Golden State Warriors,117
+2021-04-26 00:00:00,Box Score,Atlanta Hawks,86,Detroit Pistons,100
+2021-04-26 00:00:00,Box Score,Los Angeles Lakers,114,Orlando Magic,103
+2021-04-26 00:00:00,Box Score,Oklahoma City Thunder,90,Philadelphia 76ers,121
+2021-04-26 00:00:00,Box Score,San Antonio Spurs,146,Washington Wizards,143
+2021-04-26 00:00:00,Box Score,Phoenix Suns,118,New York Knicks,110
+2021-04-26 00:00:00,Box Score,Cleveland Cavaliers,96,Toronto Raptors,112
+2021-04-26 00:00:00,Box Score,Chicago Bulls,110,Miami Heat,102
+2021-04-26 00:00:00,Box Score,Utah Jazz,104,Minnesota Timberwolves,105
+2021-04-26 00:00:00,Box Score,Los Angeles Clippers,103,New Orleans Pelicans,120
+2021-04-26 00:00:00,Box Score,Memphis Grizzlies,96,Denver Nuggets,120
+2021-04-26 00:00:00,Box Score,Dallas Mavericks,106,Sacramento Kings,113
+2021-04-27 00:00:00,Box Score,Oklahoma City Thunder,119,Boston Celtics,115
+2021-04-27 00:00:00,Box Score,Milwaukee Bucks,114,Charlotte Hornets,104
+2021-04-27 00:00:00,Box Score,Portland Trail Blazers,133,Indiana Pacers,112
+2021-04-27 00:00:00,Box Score,Brooklyn Nets,116,Toronto Raptors,103
+2021-04-27 00:00:00,Box Score,Minnesota Timberwolves,114,Houston Rockets,107
+2021-04-27 00:00:00,Box Score,Dallas Mavericks,133,Golden State Warriors,103
+2021-04-28 00:00:00,Box Score,Orlando Magic,109,Cleveland Cavaliers,104
+2021-04-28 00:00:00,Box Score,Atlanta Hawks,83,Philadelphia 76ers,127
+2021-04-28 00:00:00,Box Score,Charlotte Hornets,111,Boston Celtics,120
+2021-04-28 00:00:00,Box Score,Chicago Bulls,94,New York Knicks,113
+2021-04-28 00:00:00,Box Score,Los Angeles Lakers,107,Washington Wizards,116
+2021-04-28 00:00:00,Box Score,San Antonio Spurs,111,Miami Heat,116
+2021-04-28 00:00:00,Box Score,New Orleans Pelicans,112,Denver Nuggets,114
+2021-04-28 00:00:00,Box Score,Portland Trail Blazers,130,Memphis Grizzlies,109
+2021-04-28 00:00:00,Box Score,Los Angeles Clippers,101,Phoenix Suns,109
+2021-04-28 00:00:00,Box Score,Utah Jazz,154,Sacramento Kings,105
+2021-04-29 00:00:00,Box Score,Dallas Mavericks,115,Detroit Pistons,105
+2021-04-29 00:00:00,Box Score,Brooklyn Nets,130,Indiana Pacers,113
+2021-04-29 00:00:00,Box Score,Milwaukee Bucks,136,Houston Rockets,143
+2021-04-29 00:00:00,Box Score,Golden State Warriors,114,Minnesota Timberwolves,126
+2021-04-29 00:00:00,Box Score,Toronto Raptors,111,Denver Nuggets,121
+2021-04-29 00:00:00,Box Score,New Orleans Pelicans,109,Oklahoma City Thunder,95
+2021-04-30 00:00:00,Box Score,Atlanta Hawks,104,Philadelphia 76ers,126
+2021-04-30 00:00:00,Box Score,San Antonio Spurs,140,Boston Celtics,143
+2021-04-30 00:00:00,Box Score,Washington Wizards,122,Cleveland Cavaliers,93
+2021-04-30 00:00:00,Box Score,Portland Trail Blazers,128,Brooklyn Nets,109
+2021-04-30 00:00:00,Box Score,Orlando Magic,75,Memphis Grizzlies,92
+2021-04-30 00:00:00,Box Score,Milwaukee Bucks,108,Chicago Bulls,98
+2021-04-30 00:00:00,Box Score,Utah Jazz,100,Phoenix Suns,121
+2021-04-30 00:00:00,Box Score,Sacramento Kings,110,Los Angeles Lakers,106
+2021-05-01 00:00:00,Box Score,Detroit Pistons,94,Charlotte Hornets,107
+2021-05-01 00:00:00,Box Score,Golden State Warriors,113,Houston Rockets,87
+2021-05-01 00:00:00,Box Score,Chicago Bulls,97,Atlanta Hawks,108
+2021-05-01 00:00:00,Box Score,Miami Heat,124,Cleveland Cavaliers,107
+2021-05-01 00:00:00,Box Score,New Orleans Pelicans,140,Minnesota Timberwolves,136
+2021-05-01 00:00:00,Box Score,Indiana Pacers,152,Oklahoma City Thunder,95
+2021-05-01 00:00:00,Box Score,Memphis Grizzlies,111,Orlando Magic,112
+2021-05-01 00:00:00,Box Score,Washington Wizards,124,Dallas Mavericks,125
+2021-05-01 00:00:00,Box Score,Denver Nuggets,110,Los Angeles Clippers,104
+2021-05-01 00:00:00,Box Score,Toronto Raptors,102,Utah Jazz,106
+2021-05-02 00:00:00,Box Score,Brooklyn Nets,114,Milwaukee Bucks,117
+2021-05-02 00:00:00,Box Score,Portland Trail Blazers,129,Boston Celtics,119
+2021-05-02 00:00:00,Box Score,Miami Heat,121,Charlotte Hornets,111
+2021-05-02 00:00:00,Box Score,Sacramento Kings,111,Dallas Mavericks,99
+2021-05-02 00:00:00,Box Score,New York Knicks,122,Houston Rockets,97
+2021-05-02 00:00:00,Box Score,Phoenix Suns,123,Oklahoma City Thunder,120
+2021-05-02 00:00:00,Box Score,Philadelphia 76ers,113,San Antonio Spurs,111
+2021-05-02 00:00:00,Box Score,Toronto Raptors,121,Los Angeles Lakers,114
+2021-05-03 00:00:00,Box Score,Orlando Magic,119,Detroit Pistons,112
+2021-05-03 00:00:00,Box Score,Indiana Pacers,141,Washington Wizards,154
+2021-05-03 00:00:00,Box Score,Golden State Warriors,123,New Orleans Pelicans,108
+2021-05-03 00:00:00,Box Score,Portland Trail Blazers,114,Atlanta Hawks,123
+2021-05-03 00:00:00,Box Score,Philadelphia 76ers,106,Chicago Bulls,94
+2021-05-03 00:00:00,Box Score,New York Knicks,118,Memphis Grizzlies,104
+2021-05-03 00:00:00,Box Score,Denver Nuggets,89,Los Angeles Lakers,93
+2021-05-03 00:00:00,Box Score,San Antonio Spurs,99,Utah Jazz,110
+2021-05-04 00:00:00,Box Score,Phoenix Suns,134,Cleveland Cavaliers,118
+2021-05-04 00:00:00,Box Score,Charlotte Hornets,102,Detroit Pistons,99
+2021-05-04 00:00:00,Box Score,Brooklyn Nets,118,Milwaukee Bucks,124
+2021-05-04 00:00:00,Box Score,Dallas Mavericks,127,Miami Heat,113
+2021-05-04 00:00:00,Box Score,Golden State Warriors,103,New Orleans Pelicans,108
+2021-05-04 00:00:00,Box Score,Sacramento Kings,103,Oklahoma City Thunder,99
+2021-05-04 00:00:00,Box Score,Toronto Raptors,100,Los Angeles Clippers,105
+2021-05-05 00:00:00,Box Score,Boston Celtics,132,Orlando Magic,96
+2021-05-05 00:00:00,Box Score,Portland Trail Blazers,141,Cleveland Cavaliers,105
+2021-05-05 00:00:00,Box Score,Phoenix Suns,103,Atlanta Hawks,135
+2021-05-05 00:00:00,Box Score,Philadelphia 76ers,135,Houston Rockets,115
+2021-05-05 00:00:00,Box Score,Sacramento Kings,104,Indiana Pacers,93
+2021-05-05 00:00:00,Box Score,Washington Wizards,134,Milwaukee Bucks,135
+2021-05-05 00:00:00,Box Score,Memphis Grizzlies,139,Minnesota Timberwolves,135
+2021-05-05 00:00:00,Box Score,New York Knicks,97,Denver Nuggets,113
+2021-05-05 00:00:00,Box Score,San Antonio Spurs,94,Utah Jazz,126
+2021-05-06 00:00:00,Box Score,Chicago Bulls,120,Charlotte Hornets,99
+2021-05-06 00:00:00,Box Score,Brooklyn Nets,109,Dallas Mavericks,113
+2021-05-06 00:00:00,Box Score,Washington Wizards,131,Toronto Raptors,129
+2021-05-06 00:00:00,Box Score,Memphis Grizzlies,97,Detroit Pistons,111
+2021-05-06 00:00:00,Box Score,Atlanta Hawks,126,Indiana Pacers,133
+2021-05-06 00:00:00,Box Score,Oklahoma City Thunder,97,Golden State Warriors,118
+2021-05-06 00:00:00,Box Score,Los Angeles Lakers,94,Los Angeles Clippers,118
+2021-05-07 00:00:00,Box Score,New Orleans Pelicans,107,Philadelphia 76ers,109
+2021-05-07 00:00:00,Box Score,Boston Celtics,99,Chicago Bulls,121
+2021-05-07 00:00:00,Box Score,Orlando Magic,112,Charlotte Hornets,122
+2021-05-07 00:00:00,Box Score,Minnesota Timberwolves,112,Miami Heat,121
+2021-05-07 00:00:00,Box Score,Houston Rockets,133,Milwaukee Bucks,141
+2021-05-07 00:00:00,Box Score,Cleveland Cavaliers,90,Dallas Mavericks,110
+2021-05-07 00:00:00,Box Score,Denver Nuggets,120,Utah Jazz,127
+2021-05-07 00:00:00,Box Score,New York Knicks,105,Phoenix Suns,128
+2021-05-07 00:00:00,Box Score,Los Angeles Lakers,101,Portland Trail Blazers,106
+2021-05-07 00:00:00,Box Score,San Antonio Spurs,113,Sacramento Kings,104
+2021-05-08 00:00:00,Box Score,Washington Wizards,133,Indiana Pacers,132
+2021-05-08 00:00:00,Box Score,Detroit Pistons,104,Philadelphia 76ers,118
+2021-05-08 00:00:00,Box Score,Memphis Grizzlies,109,Toronto Raptors,99
+2021-05-08 00:00:00,Box Score,Brooklyn Nets,125,Denver Nuggets,119
+2021-05-08 00:00:00,Box Score,Oklahoma City Thunder,97,Golden State Warriors,136
+2021-05-08 00:00:00,Box Score,San Antonio Spurs,102,Portland Trail Blazers,124
+2021-05-08 00:00:00,Box Score,Houston Rockets,116,Utah Jazz,124
+2021-05-09 00:00:00,Box Score,Miami Heat,130,Boston Celtics,124
+2021-05-09 00:00:00,Box Score,New York Knicks,106,Los Angeles Clippers,100
+2021-05-09 00:00:00,Box Score,New Orleans Pelicans,112,Charlotte Hornets,110
+2021-05-09 00:00:00,Box Score,Dallas Mavericks,124,Cleveland Cavaliers,97
+2021-05-09 00:00:00,Box Score,Minnesota Timberwolves,128,Orlando Magic,96
+2021-05-09 00:00:00,Box Score,Chicago Bulls,108,Detroit Pistons,96
+2021-05-09 00:00:00,Box Score,Phoenix Suns,110,Los Angeles Lakers,123
+2021-05-09 00:00:00,Box Score,Oklahoma City Thunder,98,Sacramento Kings,126
+2021-05-10 00:00:00,Box Score,Washington Wizards,124,Atlanta Hawks,125
+2021-05-10 00:00:00,Box Score,Indiana Pacers,111,Cleveland Cavaliers,102
+2021-05-10 00:00:00,Box Score,New Orleans Pelicans,110,Memphis Grizzlies,115
+2021-05-10 00:00:00,Box Score,Milwaukee Bucks,125,San Antonio Spurs,146
+2021-05-10 00:00:00,Box Score,Utah Jazz,116,Golden State Warriors,119
+2021-05-10 00:00:00,Box Score,Houston Rockets,129,Portland Trail Blazers,140
+2021-05-11 00:00:00,Box Score,Denver Nuggets,117,Charlotte Hornets,112
+2021-05-11 00:00:00,Box Score,Minnesota Timberwolves,119,Detroit Pistons,100
+2021-05-11 00:00:00,Box Score,Miami Heat,129,Boston Celtics,121
+2021-05-11 00:00:00,Box Score,Los Angeles Clippers,115,Toronto Raptors,96
+2021-05-11 00:00:00,Box Score,Brooklyn Nets,115,Chicago Bulls,107
+2021-05-11 00:00:00,Box Score,Philadelphia 76ers,94,Indiana Pacers,103
+2021-05-11 00:00:00,Box Score,Dallas Mavericks,104,Memphis Grizzlies,133
+2021-05-11 00:00:00,Box Score,Orlando Magic,102,Milwaukee Bucks,114
+2021-05-11 00:00:00,Box Score,Phoenix Suns,116,Golden State Warriors,122
+2021-05-11 00:00:00,Box Score,New York Knicks,99,Los Angeles Lakers,101
+2021-05-11 00:00:00,Box Score,Oklahoma City Thunder,106,Sacramento Kings,122
